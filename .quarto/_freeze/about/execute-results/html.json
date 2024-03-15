@@ -1,0 +1,14 @@
+{
+  "hash": "f831f3284036c6a8fbfb16f45df2e283",
+  "result": {
+    "markdown": "---\ntitle: \"About Yun\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n\n# Self-Introduction\n\nMy name is Choi Yun Yu, I am a British exchanger from the University of Sheffield. I took this module because I am going to be producing a thesis next academic year and R Studio is a cohesive and concise way to organise data.\n\nThe weather in Singapore is far too hot for me, but after nearly two semesters, I feel myself getting used to it. I fear that when I return to the UK (which is snowing right now) I will have to live in bundles of clothes and heaters.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
