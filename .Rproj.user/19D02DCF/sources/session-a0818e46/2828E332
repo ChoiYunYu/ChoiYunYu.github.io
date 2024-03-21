@@ -1,13 +1,13 @@
 {
-    "id": "57D5C42F",
+    "id": "2828E332",
     "path": "~/NM2207/Big PROJECT/ChoiYunYu.github.io/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "3246930653",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1710480519900.0,
-    "source_on_save": true,
+    "created": 1711020597386.0,
+    "source_on_save": false,
     "relative_order": 2,
     "properties": {
         "rmdVisualMode": "true",
@@ -16,7 +16,7 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "538:0",
+        "rmdVisualModeLocation": "28:166.6666717529297",
         "cursorPosition": "10,0",
         "scrollLine": "0"
     },
@@ -25,7 +25,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710480819273,
+    "last_content_update": 1710480819,
     "read_only": false,
     "read_only_alternatives": []
 }
