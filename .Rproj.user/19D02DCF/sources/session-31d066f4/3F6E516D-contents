@@ -1,0 +1,40 @@
+---
+title: "Untitled"
+author: "Yun"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r}
+# Separate male/female data
+male_female_data <- data[, c(1:7)]
+
+# Extract sample size data
+male_sample_size <- data$Male
+female_sample_size <- data$Female
+
+# Combine sample size data with male/female data
+combined_data <- cbind(male_female_data, Male_Sample_Size = male_sample_size, Female_Sample_Size = female_sample_size)
+
+# Rename columns of male/female data
+colnames(combined_data) <- c("Time_Period", "Mean_Average_Male", "Lower_Interval_Male", "Upper_Interval_Male", 
+                             "Mean_Average_Female", "Lower_Interval_Female", "Upper_Interval_Female", 
+                             "Male_Sample_Size", "Female_Sample_Size")
+
+# Output the combined dataset
+combined_data
+```
+```{r}
+# Convert relevant columns for male data to numeric
+work$Mean_Average_Male <- as.numeric(work$Mean_Average_Male)
+work$Lower_Interval_Male <- as.numeric(work$Lower_Interval_Male)
+work$Upper_Interval_Male <- as.numeric(work$Upper_Interval_Male)
+
+# Convert relevant columns for female data to numeric
+work$Mean_Average_Female <- as.numeric(work$Mean_Average_Female)
+work$Lower_Interval_Female <- as.numeric(work$Lower_Interval_Female)
+work$Upper_Interval_Female <- as.numeric(work$Upper_Interval_Female)
+
+
+```
+

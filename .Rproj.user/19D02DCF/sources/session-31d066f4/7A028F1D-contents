@@ -1,0 +1,56 @@
+---
+title: "diary entry 2 - wk 9"
+author: "Yun"
+date: "`r Sys.Date()`"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r, eval=FALSE,echo=TRUE}
+#(1) What is the question that you are going to answer? (Title: One sentence that 
+#ends with a question mark that could act like the title of your data story)
+
+How did the COVID-19 pandemic impact anxiety levels among individuals in the UK 
+across different demographic and social factors in 2020?
+```
+
+```{r, eval=FALSE,echo=TRUE}
+#(2) Why is this an important question? (Answer: 3 sentences, each of which has some 
+#evidence, e.g., “According to the United Nations...” to justify why the question you have 
+chosen is important)
+
+According to WHO, the pandemic triggered a global mental health crisis, with axniety being 
+one of the most prevalent. 
+
+Undertsanding how the COVID-19 pandemic impacted society is crucial for public 
+health interventions, and in the case of anxiety, mental health support initiatives. 
+By analysing such data, we can debate what the underlying social determinants contribute 
+to anxiety and by what extent.
+
+Policy makers can then decide what the best course of action is for the country. 
+They could develop targeted interventions to support vulnerbale populations or 
+estimate/predict which policies would/n't work for which group of people.
+
+```
+
+```{r, eval=FALSE,echo=TRUE}
+#(3) Which rows and columns of the dataset will be used to answer this question? 
+#(Answer: Actual names of the variables in the dataset that you plan to use)
+```
+```{r, out.height= "200px", out.width= "600px"}
+knitr::include_graphics("lonelines_data.png") 
+```
+```{r, out.height= "200px", out.width= "500px"}
+knitr::include_graphics("work_data.png") 
+```
+```{r, out.height= "200px", out.width= "500px"}
+knitr::include_graphics("gender_data.png") 
+```
+
+```{r, eval=FALSE,echo=TRUE}
+#Include the challenges and errors that you faced and how you overcame them.
+
+I haven't really had many struggles yet except for the creating github.io website. 
+That was my own fault though as I had misspelled github as githib. 
+```

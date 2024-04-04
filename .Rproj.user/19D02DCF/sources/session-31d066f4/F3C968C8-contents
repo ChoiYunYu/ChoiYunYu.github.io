@@ -16,11 +16,11 @@ For this project, I am going to be using a dataset from the UK's National Statis
 
 I am going to be looking at the coronavirus and how it affected people's daily lives. Although the dataset's title is 'Coronavirus and anxiety estimates', the survey questions don't actually involve coronavirus. It was conducted in 2020 (pandemic era) and asked about anxiety ratings affected by loneliness, marital status, sex, safety, work, and disability.
 
-# This is an example Shiny Dashboard 
+# This is an example Shiny Dashboard
 
 Not my actual dataset
+
 ```{=html}
 
 <iframe height="400" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/personal_app/"> </iframe>
 ```
-
