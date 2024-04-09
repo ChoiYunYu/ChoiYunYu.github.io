@@ -12,7 +12,9 @@ In this data story, we delve into a dataset that explores the relationship betwe
 
 # Context
 
-This data story uses a dataset from Kaggle titled cooking skills. (https://www.kaggle.com/datasets/mostafatamer/female-and-male)
+This data story uses a dataset from Kaggle titled "Cooking skills".
+
+(https://www.kaggle.com/datasets/mostafatamer/female-and-male)
 
 This dataset contained information about a sample of men and women and their cooking skills (rated on their own assumption), descriptive data of their demographics, marital status, salary and education.
 
