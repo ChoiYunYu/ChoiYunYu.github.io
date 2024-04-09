@@ -1,5 +1,5 @@
 ---
-title: "About Yun"
+title: "About"
 ---
 
 # Cooking Data
