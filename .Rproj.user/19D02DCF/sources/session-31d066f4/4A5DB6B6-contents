@@ -14,7 +14,7 @@ website:
 
 format:
   html:
-    theme: solarized
+    theme: journal
     css: styles.css
     toc: true
 

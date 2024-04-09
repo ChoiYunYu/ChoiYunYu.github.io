@@ -3,7 +3,7 @@
     "path": "~/NM2207/Big PROJECT/ChoiYunYu.github.io/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "3672197290",
+    "hash": "2682644774",
     "contents": "",
     "dirty": false,
     "created": 1712657774893.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "16,20",
+        "cursorPosition": "16,18",
         "scrollLine": "4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712658167,
+    "lastKnownWriteTime": 1712659414,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712658167200,
+    "last_content_update": 1712659415060,
     "read_only": false,
     "read_only_alternatives": []
 }
