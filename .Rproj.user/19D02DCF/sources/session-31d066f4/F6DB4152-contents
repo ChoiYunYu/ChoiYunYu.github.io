@@ -16,7 +16,7 @@ title: "My Dataset"
 
 # Analysis of Dataset
 
-Gender:
+## Gender
 
 The scatter plot illustrates that in the sample, women tended to rate their own cooking skills as higher than average compared to males, with a few anomalies. Through this, we can determine that gender norms and expectations (stemming from past historical contexts) can shape an individual’s perception. 
 
@@ -24,10 +24,10 @@ For example, since ancient times, domesticity was the realm relegated to women, 
 
 However, there are still anomalies, where men have rated themselves higher than average. I suggest that this is contextual and depends on the unique narratives of each individual. For example, some men may possess culinary expertise through careers, or personal interest. However, some men may inflate their own rating out of overconfidence or narcissism. 
 
-Age:
+## Age
 
 As age increases, there seems to be a slight decline in self-reported cooking skills amongst both males and females. This trend suggests that younger individuals perceive themselves to be more proficient in cooking compared to the older generation. Looking at social factors and societal changes, it is possible to consider that older individuals may have developed a more modest perception of their cooking skills and a routine approach, viewing it as a daily task rather than a skill to be evaluated, especially in women. Furthermore, changing dietary norms and preferences over time may have played a role. Older individuals may be more accustomed to cooking dishes that are no longer popular or seen among the younger generation, leading them to feel less confident in their cooking skills when compared to the preferences of today’s society.
 
-Marital Status:
+## Marital Status
 
 When considering marital status, regardless of gender, married individuals tend to rate their own cooking skills as higher than single people. This outcome suggests two plausible scenarios: either marriage had a positive effect on an individual’s cooking skills, such as sharing responsibilities within the kitchen or prioritising home-cooked meals instead of eating out or instant meals. Alternatively, it could be true that a spouse could exaggerate or inflate the respondent’s culinary skills, leading to a biased self-assessment.
