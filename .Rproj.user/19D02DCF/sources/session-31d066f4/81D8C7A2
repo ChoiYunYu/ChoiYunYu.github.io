@@ -1,9 +1,9 @@
 {
     "id": "81D8C7A2",
-    "path": "~/NM2207/Big PROJECT/app.R",
-    "project_path": null,
+    "path": "~/NM2207/Big PROJECT/ChoiYunYu.github.io/scatter/app.R",
+    "project_path": "scatter/app.R",
     "type": "r_source",
-    "hash": "574838247",
+    "hash": "2546437924",
     "contents": "",
     "dirty": false,
     "created": 1711031587026.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "22,40",
-        "scrollLine": "18"
+        "cursorPosition": "3,43",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712663274,
+    "lastKnownWriteTime": 1712669899,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712663274830,
+    "last_content_update": 1712669899551,
     "read_only": false,
     "read_only_alternatives": []
 }

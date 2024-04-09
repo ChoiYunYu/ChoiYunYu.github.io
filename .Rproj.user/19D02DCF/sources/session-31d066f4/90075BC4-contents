@@ -1,6 +1,8 @@
 library(shiny)
 library(ggplot2)
 
+cook_data <- read.csv("cooking_skills.csv")
+
 ui <- fluidPage(
   titlePanel("Cooking Skills Density Plot by Gender"),
   sidebarLayout(
