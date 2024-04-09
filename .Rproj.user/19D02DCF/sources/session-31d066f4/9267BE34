@@ -15,10 +15,10 @@
         "totalObservations": "517",
         "displayedObservations": "517",
         "variables": "8",
-        "cacheKey": "4AB3A672",
+        "cacheKey": "9C98BA6B",
         "object": "cook_data",
         "environment": "",
-        "contentUrl": "grid_resource/gridviewer.html?env=&obj=cook_data&cache_key=4AB3A672&max_display_columns=50",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=cook_data&cache_key=9C98BA6B&max_display_columns=50",
         "preview": "0",
         "source_window_id": "",
         "Source": "Source"

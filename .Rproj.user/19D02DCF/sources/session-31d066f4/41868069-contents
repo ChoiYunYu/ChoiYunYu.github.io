@@ -1,0 +1,518 @@
+Gender,cooking skills,age,salary,qualification,employment_status,marital_status,favourite_dish
+Male,3,31,10000,Bachelors,Self Emplyed,Married,Biryani
+Male,5,21,3000,Intermediate,Unemployed,Other,Biryani
+Male,3,41,35000,Bachelors,Employed,Single,Daal
+Male,1,22,50000,Bachelors,Self Emplyed,Single,Karahi Ghosht
+Female,10,26,35000,Masters,Unemployed,Single,Daal
+Male,3,37,55000,PhD,Employed,Married,Karahi Ghosht
+Female,8,23,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,120000,PhD,Unemployed,Single,Karahi Ghosht
+Male,6,23,5000,Bachelors,Self Emplyed,Single,Saag
+Male,4,33,10000,Bachelors,Unemployed,Married,Biryani
+Male,2,27,20000,Bachelors,Unemployed,Married,Naan Haleem
+Female,10,22,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,50000,Masters,Employed,Married,Karahi Ghosht
+Female,8,26,88000,PhD,Employed,Single,Biryani
+Female,9,37,120000,PhD,Employed,Married,Karahi Ghosht
+Female,7,32,60000,Bachelors,Employed,Single,Naan Haleem
+Male,4,22,5000,Bachelors,Unemployed,Single,Saag
+Female,10,30,120000,Bachelors,Employed,Married,Biryani
+Female,10,20,1000,Bachelors,Unemployed,Single,Biryani
+Female,6,37,40000,PhD,Unemployed,Married,Karahi Ghosht
+Female,9,34,1100,Masters,Unemployed,Married,Naan Haleem
+Male,5,29,100000,Bachelors,Employed,Married,Karahi Ghosht
+Male,4,21,222.22,Bachelors,Unemployed,Single,Daal
+Male,3,26,20000,Masters,Unemployed,Married,Biryani
+Male,2,33,15000,Bachelors,Unemployed,Married,Saag
+Female,10,25,10000,Bachelors,Unemployed,Single,Biryani
+Male,2,20,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,32,40632,Masters,Employed,Married,Karahi Ghosht
+Male,2,22,20000,Bachelors,Self Emplyed,Single,Biryani
+Male,3,34,240000,Bachelors,Employed,Married,Daal
+Male,3,31,250000,PhD,Employed,Married,Karahi Ghosht
+Male,2,36,110000,PhD,Employed,Married,Karahi Ghosht
+Female,10,27,5500,Masters,Employed,Single,Karahi Ghosht
+Male,5,29,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,25,5000,Masters,Unemployed,Single,Saag
+Female,8,35,50000,Masters,Unemployed,Married,Naan Haleem
+Female,9,24,10000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,3,35,40000,PostDoc,Employed,Single,Karahi Ghosht
+Female,7,33,28000,Intermediate,Unemployed,Married,Saag
+Female,8,23,40000,Intermediate,Self Emplyed,Single,Karahi Ghosht
+Female,9,28,39860,Masters,Employed,Married,Karahi Ghosht
+Female,10,23,10000,Masters,Self Emplyed,Single,Naan Haleem
+Male,3,19,5000,Intermediate,Unemployed,Single,Biryani
+Male,10,37,65000,Masters,Employed,Married,Saag
+Male,10,29,105000,Bachelors,Employed,Married,Biryani
+Male,5,39,286136.5,Masters,Employed,Married,Saag
+Female,8,26,30000,Masters,Unemployed,Single,Karahi Ghosht
+Male,6,24,2000,Bachelors,Unemployed,Single,Biryani
+Female,9,21,5000,Bachelors,Unemployed,Single,Biryani
+Male,2,29,198000,PhD,Employed,Other,Karahi Ghosht
+Male,3,28,3000,Masters,Unemployed,Married,Biryani
+Male,3,24,7000,Bachelors,Unemployed,Single,Biryani
+Male,2,42,120000,Bachelors,Unemployed,Married,Biryani
+Female,6,28,55000,Masters,Employed,Single,Karahi Ghosht
+Male,8,30,8000,Bachelors,Unemployed,Married,Biryani
+Female,7,21,8000,Bachelors,Unemployed,Single,Biryani
+Female,9,24,3000,Bachelors,Unemployed,Single,Biryani
+Female,10,31,300000,Bachelors,Self Emplyed,Married,Biryani
+Male,1,27,30000,Masters,Employed,Single,Karahi Ghosht
+Female,10,33,10300,Masters,Unemployed,Single,Saag
+Female,10,21,1000,Bachelors,Unemployed,Married,Biryani
+Female,6,34,3000,Masters,Unemployed,Married,Biryani
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Male,3,31,10000,Bachelors,Self Emplyed,Married,Biryani
+Male,5,21,3000,Intermediate,Unemployed,Other,Biryani
+Male,3,41,35000,Bachelors,Employed,Single,Daal
+Male,1,22,50000,Bachelors,Self Emplyed,Single,Karahi Ghosht
+Female,10,26,35000,Masters,Unemployed,Single,Daal
+Male,3,37,55000,PhD,Employed,Married,Karahi Ghosht
+Female,8,23,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,120000,PhD,Unemployed,Single,Karahi Ghosht
+Male,6,23,5000,Bachelors,Self Emplyed,Single,Saag
+Male,4,33,10000,Bachelors,Unemployed,Married,Biryani
+Male,2,27,20000,Bachelors,Unemployed,Married,Naan Haleem
+Female,10,22,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,50000,Masters,Employed,Married,Karahi Ghosht
+Female,8,26,88000,PhD,Employed,Single,Biryani
+Female,9,37,120000,PhD,Employed,Married,Karahi Ghosht
+Female,7,32,60000,Bachelors,Employed,Single,Naan Haleem
+Male,4,22,5000,Bachelors,Unemployed,Single,Saag
+Female,10,30,120000,Bachelors,Employed,Married,Biryani
+Female,10,20,1000,Bachelors,Unemployed,Single,Biryani
+Female,6,37,40000,PhD,Unemployed,Married,Karahi Ghosht
+Female,9,34,1100,Masters,Unemployed,Married,Naan Haleem
+Male,5,29,100000,Bachelors,Employed,Married,Karahi Ghosht
+Male,4,21,222.22,Bachelors,Unemployed,Single,Daal
+Male,3,26,20000,Masters,Unemployed,Married,Biryani
+Male,2,33,15000,Bachelors,Unemployed,Married,Saag
+Female,10,25,10000,Bachelors,Unemployed,Single,Biryani
+Male,2,20,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,32,40632,Masters,Employed,Married,Karahi Ghosht
+Male,2,22,20000,Bachelors,Self Emplyed,Single,Biryani
+Male,3,34,240000,Bachelors,Employed,Married,Daal
+Male,3,31,250000,PhD,Employed,Married,Karahi Ghosht
+Male,2,36,110000,PhD,Employed,Married,Karahi Ghosht
+Female,10,27,5500,Masters,Employed,Single,Karahi Ghosht
+Male,5,29,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,25,5000,Masters,Unemployed,Single,Saag
+Female,8,35,50000,Masters,Unemployed,Married,Naan Haleem
+Female,9,24,10000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,3,35,40000,PostDoc,Employed,Single,Karahi Ghosht
+Female,7,33,28000,Intermediate,Unemployed,Married,Saag
+Female,8,23,40000,Intermediate,Self Emplyed,Single,Karahi Ghosht
+Female,9,28,39860,Masters,Employed,Married,Karahi Ghosht
+Female,10,23,10000,Masters,Self Emplyed,Single,Naan Haleem
+Male,3,19,5000,Intermediate,Unemployed,Single,Biryani
+Male,10,37,65000,Masters,Employed,Married,Saag
+Male,10,29,105000,Bachelors,Employed,Married,Biryani
+Male,5,39,286136.5,Masters,Employed,Married,Saag
+Female,8,26,30000,Masters,Unemployed,Single,Karahi Ghosht
+Male,6,24,2000,Bachelors,Unemployed,Single,Biryani
+Female,9,21,5000,Bachelors,Unemployed,Single,Biryani
+Male,2,29,198000,PhD,Employed,Other,Karahi Ghosht
+Male,3,28,3000,Masters,Unemployed,Married,Biryani
+Male,3,24,7000,Bachelors,Unemployed,Single,Biryani
+Male,2,42,120000,Bachelors,Unemployed,Married,Biryani
+Female,6,28,55000,Masters,Employed,Single,Karahi Ghosht
+Male,8,30,8000,Bachelors,Unemployed,Married,Biryani
+Female,7,21,8000,Bachelors,Unemployed,Single,Biryani
+Female,9,24,3000,Bachelors,Unemployed,Single,Biryani
+Female,10,31,300000,Bachelors,Self Emplyed,Married,Biryani
+Male,1,27,30000,Masters,Employed,Single,Karahi Ghosht
+Female,10,33,10300,Masters,Unemployed,Single,Saag
+Female,10,21,1000,Bachelors,Unemployed,Married,Biryani
+Female,6,34,3000,Masters,Unemployed,Married,Biryani
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,10,22,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,50000,Masters,Employed,Married,Karahi Ghosht
+Female,8,26,88000,PhD,Employed,Single,Biryani
+Female,9,37,120000,PhD,Employed,Married,Karahi Ghosht
+Female,7,32,60000,Bachelors,Employed,Single,Naan Haleem
+Male,4,22,5000,Bachelors,Unemployed,Single,Saag
+Female,10,30,120000,Bachelors,Employed,Married,Biryani
+Female,10,20,1000,Bachelors,Unemployed,Single,Biryani
+Female,6,37,40000,PhD,Unemployed,Married,Karahi Ghosht
+Female,9,34,1100,Masters,Unemployed,Married,Naan Haleem
+Male,5,29,100000,Bachelors,Employed,Married,Karahi Ghosht
+Male,4,21,222.22,Bachelors,Unemployed,Single,Daal
+Male,3,26,20000,Masters,Unemployed,Married,Biryani
+Male,2,33,15000,Bachelors,Unemployed,Married,Saag
+Female,10,25,10000,Bachelors,Unemployed,Single,Biryani
+Male,2,20,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,32,40632,Masters,Employed,Married,Karahi Ghosht
+Male,2,22,20000,Bachelors,Self Emplyed,Single,Biryani
+Male,3,34,240000,Bachelors,Employed,Married,Daal
+Male,3,31,250000,PhD,Employed,Married,Karahi Ghosht
+Male,2,36,110000,PhD,Employed,Married,Karahi Ghosht
+Female,10,27,5500,Masters,Employed,Single,Karahi Ghosht
+Male,5,29,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,25,5000,Masters,Unemployed,Single,Saag
+Female,8,35,50000,Masters,Unemployed,Married,Naan Haleem
+Female,9,24,10000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,3,35,40000,PostDoc,Employed,Single,Karahi Ghosht
+Female,7,33,28000,Intermediate,Unemployed,Married,Saag
+Female,8,23,40000,Intermediate,Self Emplyed,Single,Karahi Ghosht
+Female,9,28,39860,Masters,Employed,Married,Karahi Ghosht
+Female,10,23,10000,Masters,Self Emplyed,Single,Naan Haleem
+Male,3,19,5000,Intermediate,Unemployed,Single,Biryani
+Male,10,37,65000,Masters,Employed,Married,Saag
+Male,10,29,105000,Bachelors,Employed,Married,Biryani
+Male,5,39,286136.5,Masters,Employed,Married,Saag
+Female,8,26,30000,Masters,Unemployed,Single,Karahi Ghosht
+Male,6,24,2000,Bachelors,Unemployed,Single,Biryani
+Female,9,21,5000,Bachelors,Unemployed,Single,Biryani
+Male,2,29,198000,PhD,Employed,Other,Karahi Ghosht
+Male,3,28,3000,Masters,Unemployed,Married,Biryani
+Male,3,24,7000,Bachelors,Unemployed,Single,Biryani
+Male,2,42,120000,Bachelors,Unemployed,Married,Biryani
+Female,6,28,55000,Masters,Employed,Single,Karahi Ghosht
+Male,8,30,8000,Bachelors,Unemployed,Married,Biryani
+Female,7,21,8000,Bachelors,Unemployed,Single,Biryani
+Female,9,24,3000,Bachelors,Unemployed,Single,Biryani
+Female,10,31,300000,Bachelors,Self Emplyed,Married,Biryani
+Male,1,27,30000,Masters,Employed,Single,Karahi Ghosht
+Female,10,33,10300,Masters,Unemployed,Single,Saag
+Female,10,21,1000,Bachelors,Unemployed,Married,Biryani
+Female,6,34,3000,Masters,Unemployed,Married,Biryani
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Male,3,31,10000,Bachelors,Self Emplyed,Married,Biryani
+Male,5,21,3000,Intermediate,Unemployed,Other,Biryani
+Male,3,41,35000,Bachelors,Employed,Single,Daal
+Male,1,22,50000,Bachelors,Self Emplyed,Single,Karahi Ghosht
+Female,10,26,35000,Masters,Unemployed,Single,Daal
+Male,3,37,55000,PhD,Employed,Married,Karahi Ghosht
+Female,8,23,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,120000,PhD,Unemployed,Single,Karahi Ghosht
+Male,6,23,5000,Bachelors,Self Emplyed,Single,Saag
+Male,4,33,10000,Bachelors,Unemployed,Married,Biryani
+Male,2,27,20000,Bachelors,Unemployed,Married,Naan Haleem
+Female,10,22,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,50000,Masters,Employed,Married,Karahi Ghosht
+Female,8,26,88000,PhD,Employed,Single,Biryani
+Female,9,37,120000,PhD,Employed,Married,Karahi Ghosht
+Female,7,32,60000,Bachelors,Employed,Single,Naan Haleem
+Male,4,22,5000,Bachelors,Unemployed,Single,Saag
+Female,10,30,120000,Bachelors,Employed,Married,Biryani
+Female,10,20,1000,Bachelors,Unemployed,Single,Biryani
+Female,6,37,40000,PhD,Unemployed,Married,Karahi Ghosht
+Female,9,34,1100,Masters,Unemployed,Married,Naan Haleem
+Male,5,29,100000,Bachelors,Employed,Married,Karahi Ghosht
+Male,4,21,222.22,Bachelors,Unemployed,Single,Daal
+Male,3,26,20000,Masters,Unemployed,Married,Biryani
+Male,2,33,15000,Bachelors,Unemployed,Married,Saag
+Female,10,25,10000,Bachelors,Unemployed,Single,Biryani
+Male,2,20,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,32,40632,Masters,Employed,Married,Karahi Ghosht
+Male,2,22,20000,Bachelors,Self Emplyed,Single,Biryani
+Male,3,34,240000,Bachelors,Employed,Married,Daal
+Male,3,31,250000,PhD,Employed,Married,Karahi Ghosht
+Male,2,36,110000,PhD,Employed,Married,Karahi Ghosht
+Female,10,27,5500,Masters,Employed,Single,Karahi Ghosht
+Male,5,29,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,25,5000,Masters,Unemployed,Single,Saag
+Female,8,35,50000,Masters,Unemployed,Married,Naan Haleem
+Female,9,24,10000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,3,35,40000,PostDoc,Employed,Single,Karahi Ghosht
+Female,7,33,28000,Intermediate,Unemployed,Married,Saag
+Female,8,23,40000,Intermediate,Self Emplyed,Single,Karahi Ghosht
+Female,9,28,39860,Masters,Employed,Married,Karahi Ghosht
+Female,10,23,10000,Masters,Self Emplyed,Single,Naan Haleem
+Male,3,19,5000,Intermediate,Unemployed,Single,Biryani
+Male,10,37,65000,Masters,Employed,Married,Saag
+Male,10,29,105000,Bachelors,Employed,Married,Biryani
+Male,5,39,286136.5,Masters,Employed,Married,Saag
+Female,8,26,30000,Masters,Unemployed,Single,Karahi Ghosht
+Male,6,24,2000,Bachelors,Unemployed,Single,Biryani
+Female,9,21,5000,Bachelors,Unemployed,Single,Biryani
+Male,2,29,198000,PhD,Employed,Other,Karahi Ghosht
+Male,3,28,3000,Masters,Unemployed,Married,Biryani
+Male,3,24,7000,Bachelors,Unemployed,Single,Biryani
+Male,2,42,120000,Bachelors,Unemployed,Married,Biryani
+Female,6,28,55000,Masters,Employed,Single,Karahi Ghosht
+Male,8,30,8000,Bachelors,Unemployed,Married,Biryani
+Female,7,21,8000,Bachelors,Unemployed,Single,Biryani
+Female,9,24,3000,Bachelors,Unemployed,Single,Biryani
+Female,10,31,300000,Bachelors,Self Emplyed,Married,Biryani
+Male,1,27,30000,Masters,Employed,Single,Karahi Ghosht
+Female,10,33,10300,Masters,Unemployed,Single,Saag
+Female,10,21,1000,Bachelors,Unemployed,Married,Biryani
+Female,6,34,3000,Masters,Unemployed,Married,Biryani
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,9,21,5000,Bachelors,Unemployed,Single,Biryani
+Male,2,29,198000,PhD,Employed,Other,Karahi Ghosht
+Male,3,28,3000,Masters,Unemployed,Married,Biryani
+Male,3,24,7000,Bachelors,Unemployed,Single,Biryani
+Male,2,42,120000,Bachelors,Unemployed,Married,Biryani
+Female,6,28,55000,Masters,Employed,Single,Karahi Ghosht
+Male,8,30,8000,Bachelors,Unemployed,Married,Biryani
+Female,7,21,8000,Bachelors,Unemployed,Single,Biryani
+Female,9,24,3000,Bachelors,Unemployed,Single,Biryani
+Female,10,31,300000,Bachelors,Self Emplyed,Married,Biryani
+Male,1,27,30000,Masters,Employed,Single,Karahi Ghosht
+Female,10,33,10300,Masters,Unemployed,Single,Saag
+Female,10,21,1000,Bachelors,Unemployed,Married,Biryani
+Female,6,34,3000,Masters,Unemployed,Married,Biryani
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,10,22,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,50000,Masters,Employed,Married,Karahi Ghosht
+Female,8,26,88000,PhD,Employed,Single,Biryani
+Female,9,37,120000,PhD,Employed,Married,Karahi Ghosht
+Female,7,32,60000,Bachelors,Employed,Single,Naan Haleem
+Male,4,22,5000,Bachelors,Unemployed,Single,Saag
+Female,10,30,120000,Bachelors,Employed,Married,Biryani
+Female,10,20,1000,Bachelors,Unemployed,Single,Biryani
+Female,6,37,40000,PhD,Unemployed,Married,Karahi Ghosht
+Female,9,34,1100,Masters,Unemployed,Married,Naan Haleem
+Male,5,29,100000,Bachelors,Employed,Married,Karahi Ghosht
+Male,4,21,222.22,Bachelors,Unemployed,Single,Daal
+Male,3,26,20000,Masters,Unemployed,Married,Biryani
+Male,2,33,15000,Bachelors,Unemployed,Married,Saag
+Female,10,25,10000,Bachelors,Unemployed,Single,Biryani
+Male,2,20,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,32,40632,Masters,Employed,Married,Karahi Ghosht
+Male,2,22,20000,Bachelors,Self Emplyed,Single,Biryani
+Male,3,34,240000,Bachelors,Employed,Married,Daal
+Male,3,31,250000,PhD,Employed,Married,Karahi Ghosht
+Male,2,36,110000,PhD,Employed,Married,Karahi Ghosht
+Female,10,27,5500,Masters,Employed,Single,Karahi Ghosht
+Male,5,29,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,25,5000,Masters,Unemployed,Single,Saag
+Female,8,35,50000,Masters,Unemployed,Married,Naan Haleem
+Female,9,24,10000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,3,35,40000,PostDoc,Employed,Single,Karahi Ghosht
+Female,7,33,28000,Intermediate,Unemployed,Married,Saag
+Female,8,23,40000,Intermediate,Self Emplyed,Single,Karahi Ghosht
+Female,9,28,39860,Masters,Employed,Married,Karahi Ghosht
+Female,10,23,10000,Masters,Self Emplyed,Single,Naan Haleem
+Male,3,19,5000,Intermediate,Unemployed,Single,Biryani
+Male,10,37,65000,Masters,Employed,Married,Saag
+Male,10,29,105000,Bachelors,Employed,Married,Biryani
+Male,5,39,286136.5,Masters,Employed,Married,Saag
+Female,8,26,30000,Masters,Unemployed,Single,Karahi Ghosht
+Male,6,24,2000,Bachelors,Unemployed,Single,Biryani
+Female,9,21,5000,Bachelors,Unemployed,Single,Biryani
+Male,2,29,198000,PhD,Employed,Other,Karahi Ghosht
+Male,3,28,3000,Masters,Unemployed,Married,Biryani
+Male,3,24,7000,Bachelors,Unemployed,Single,Biryani
+Male,2,42,120000,Bachelors,Unemployed,Married,Biryani
+Female,6,28,55000,Masters,Employed,Single,Karahi Ghosht
+Male,8,30,8000,Bachelors,Unemployed,Married,Biryani
+Female,7,21,8000,Bachelors,Unemployed,Single,Biryani
+Female,9,24,3000,Bachelors,Unemployed,Single,Biryani
+Female,10,31,300000,Bachelors,Self Emplyed,Married,Biryani
+Male,1,27,30000,Masters,Employed,Single,Karahi Ghosht
+Female,10,33,10300,Masters,Unemployed,Single,Saag
+Female,10,21,1000,Bachelors,Unemployed,Married,Biryani
+Female,6,34,3000,Masters,Unemployed,Married,Biryani
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Male,3,31,10000,Bachelors,Self Emplyed,Married,Biryani
+Male,5,21,3000,Intermediate,Unemployed,Other,Biryani
+Male,3,41,35000,Bachelors,Employed,Single,Daal
+Male,1,22,50000,Bachelors,Self Emplyed,Single,Karahi Ghosht
+Female,10,26,35000,Masters,Unemployed,Single,Daal
+Male,3,37,55000,PhD,Employed,Married,Karahi Ghosht
+Female,8,23,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,120000,PhD,Unemployed,Single,Karahi Ghosht
+Male,6,23,5000,Bachelors,Self Emplyed,Single,Saag
+Male,4,33,10000,Bachelors,Unemployed,Married,Biryani
+Male,2,27,20000,Bachelors,Unemployed,Married,Naan Haleem
+Female,10,22,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,50000,Masters,Employed,Married,Karahi Ghosht
+Female,8,26,88000,PhD,Employed,Single,Biryani
+Female,9,37,120000,PhD,Employed,Married,Karahi Ghosht
+Female,7,32,60000,Bachelors,Employed,Single,Naan Haleem
+Male,4,22,5000,Bachelors,Unemployed,Single,Saag
+Female,10,30,120000,Bachelors,Employed,Married,Biryani
+Female,10,20,1000,Bachelors,Unemployed,Single,Biryani
+Female,6,37,40000,PhD,Unemployed,Married,Karahi Ghosht
+Female,9,34,1100,Masters,Unemployed,Married,Naan Haleem
+Male,5,29,100000,Bachelors,Employed,Married,Karahi Ghosht
+Male,4,21,222.22,Bachelors,Unemployed,Single,Daal
+Male,3,26,20000,Masters,Unemployed,Married,Biryani
+Male,2,33,15000,Bachelors,Unemployed,Married,Saag
+Female,10,25,10000,Bachelors,Unemployed,Single,Biryani
+Male,2,20,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,32,40632,Masters,Employed,Married,Karahi Ghosht
+Male,2,22,20000,Bachelors,Self Emplyed,Single,Biryani
+Male,3,34,240000,Bachelors,Employed,Married,Daal
+Male,3,31,250000,PhD,Employed,Married,Karahi Ghosht
+Male,2,36,110000,PhD,Employed,Married,Karahi Ghosht
+Female,10,27,5500,Masters,Employed,Single,Karahi Ghosht
+Male,5,29,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,25,5000,Masters,Unemployed,Single,Saag
+Female,8,35,50000,Masters,Unemployed,Married,Naan Haleem
+Female,9,24,10000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,3,35,40000,PostDoc,Employed,Single,Karahi Ghosht
+Female,7,33,28000,Intermediate,Unemployed,Married,Saag
+Female,8,23,40000,Intermediate,Self Emplyed,Single,Karahi Ghosht
+Female,9,28,39860,Masters,Employed,Married,Karahi Ghosht
+Female,10,23,10000,Masters,Self Emplyed,Single,Naan Haleem
+Male,3,19,5000,Intermediate,Unemployed,Single,Biryani
+Male,10,37,65000,Masters,Employed,Married,Saag
+Male,10,29,105000,Bachelors,Employed,Married,Biryani
+Male,5,39,286136.5,Masters,Employed,Married,Saag
+Female,8,26,30000,Masters,Unemployed,Single,Karahi Ghosht
+Male,6,24,2000,Bachelors,Unemployed,Single,Biryani
+Female,9,21,5000,Bachelors,Unemployed,Single,Biryani
+Male,2,29,198000,PhD,Employed,Other,Karahi Ghosht
+Male,3,28,3000,Masters,Unemployed,Married,Biryani
+Male,3,24,7000,Bachelors,Unemployed,Single,Biryani
+Male,2,42,120000,Bachelors,Unemployed,Married,Biryani
+Female,6,28,55000,Masters,Employed,Single,Karahi Ghosht
+Male,8,30,8000,Bachelors,Unemployed,Married,Biryani
+Female,7,21,8000,Bachelors,Unemployed,Single,Biryani
+Female,9,24,3000,Bachelors,Unemployed,Single,Biryani
+Female,10,31,300000,Bachelors,Self Emplyed,Married,Biryani
+Male,1,27,30000,Masters,Employed,Single,Karahi Ghosht
+Female,10,33,10300,Masters,Unemployed,Single,Saag
+Female,10,21,1000,Bachelors,Unemployed,Married,Biryani
+Female,6,34,3000,Masters,Unemployed,Married,Biryani
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,9,24,3000,Bachelors,Unemployed,Single,Biryani
+Female,10,31,300000,Bachelors,Self Emplyed,Married,Biryani
+Male,1,27,30000,Masters,Employed,Single,Karahi Ghosht
+Female,10,33,10300,Masters,Unemployed,Single,Saag
+Female,10,21,1000,Bachelors,Unemployed,Married,Biryani
+Female,6,34,3000,Masters,Unemployed,Married,Biryani
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,9,21,5000,Bachelors,Unemployed,Single,Biryani
+Male,2,29,198000,PhD,Employed,Other,Karahi Ghosht
+Male,3,28,3000,Masters,Unemployed,Married,Biryani
+Male,3,24,7000,Bachelors,Unemployed,Single,Biryani
+Male,2,42,120000,Bachelors,Unemployed,Married,Biryani
+Female,6,28,55000,Masters,Employed,Single,Karahi Ghosht
+Male,8,30,8000,Bachelors,Unemployed,Married,Biryani
+Female,7,21,8000,Bachelors,Unemployed,Single,Biryani
+Female,9,24,3000,Bachelors,Unemployed,Single,Biryani
+Female,10,31,300000,Bachelors,Self Emplyed,Married,Biryani
+Male,1,27,30000,Masters,Employed,Single,Karahi Ghosht
+Female,10,33,10300,Masters,Unemployed,Single,Saag
+Female,10,21,1000,Bachelors,Unemployed,Married,Biryani
+Female,6,34,3000,Masters,Unemployed,Married,Biryani
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,10,22,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,50000,Masters,Employed,Married,Karahi Ghosht
+Female,8,26,88000,PhD,Employed,Single,Biryani
+Female,9,37,120000,PhD,Employed,Married,Karahi Ghosht
+Female,7,32,60000,Bachelors,Employed,Single,Naan Haleem
+Male,4,22,5000,Bachelors,Unemployed,Single,Saag
+Female,10,30,120000,Bachelors,Employed,Married,Biryani
+Female,10,20,1000,Bachelors,Unemployed,Single,Biryani
+Female,6,37,40000,PhD,Unemployed,Married,Karahi Ghosht
+Female,9,34,1100,Masters,Unemployed,Married,Naan Haleem
+Male,5,29,100000,Bachelors,Employed,Married,Karahi Ghosht
+Male,4,21,222.22,Bachelors,Unemployed,Single,Daal
+Male,3,26,20000,Masters,Unemployed,Married,Biryani
+Male,2,33,15000,Bachelors,Unemployed,Married,Saag
+Female,10,25,10000,Bachelors,Unemployed,Single,Biryani
+Male,2,20,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,32,40632,Masters,Employed,Married,Karahi Ghosht
+Male,2,22,20000,Bachelors,Self Emplyed,Single,Biryani
+Male,3,34,240000,Bachelors,Employed,Married,Daal
+Male,3,31,250000,PhD,Employed,Married,Karahi Ghosht
+Male,2,36,110000,PhD,Employed,Married,Karahi Ghosht
+Female,10,27,5500,Masters,Employed,Single,Karahi Ghosht
+Male,5,29,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,25,5000,Masters,Unemployed,Single,Saag
+Female,8,35,50000,Masters,Unemployed,Married,Naan Haleem
+Female,9,24,10000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,3,35,40000,PostDoc,Employed,Single,Karahi Ghosht
+Female,7,33,28000,Intermediate,Unemployed,Married,Saag
+Female,8,23,40000,Intermediate,Self Emplyed,Single,Karahi Ghosht
+Female,9,28,39860,Masters,Employed,Married,Karahi Ghosht
+Female,10,23,10000,Masters,Self Emplyed,Single,Naan Haleem
+Male,3,19,5000,Intermediate,Unemployed,Single,Biryani
+Male,10,37,65000,Masters,Employed,Married,Saag
+Male,10,29,105000,Bachelors,Employed,Married,Biryani
+Male,5,39,286136.5,Masters,Employed,Married,Saag
+Female,8,26,30000,Masters,Unemployed,Single,Karahi Ghosht
+Male,6,24,2000,Bachelors,Unemployed,Single,Biryani
+Female,9,21,5000,Bachelors,Unemployed,Single,Biryani
+Male,2,29,198000,PhD,Employed,Other,Karahi Ghosht
+Male,3,28,3000,Masters,Unemployed,Married,Biryani
+Male,3,24,7000,Bachelors,Unemployed,Single,Biryani
+Male,2,42,120000,Bachelors,Unemployed,Married,Biryani
+Female,6,28,55000,Masters,Employed,Single,Karahi Ghosht
+Male,8,30,8000,Bachelors,Unemployed,Married,Biryani
+Female,7,21,8000,Bachelors,Unemployed,Single,Biryani
+Female,9,24,3000,Bachelors,Unemployed,Single,Biryani
+Female,10,31,300000,Bachelors,Self Emplyed,Married,Biryani
+Male,1,27,30000,Masters,Employed,Single,Karahi Ghosht
+Female,10,33,10300,Masters,Unemployed,Single,Saag
+Female,10,21,1000,Bachelors,Unemployed,Married,Biryani
+Female,6,34,3000,Masters,Unemployed,Married,Biryani
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal
+Male,3,31,10000,Bachelors,Self Emplyed,Married,Biryani
+Male,5,21,3000,Intermediate,Unemployed,Other,Biryani
+Male,3,41,35000,Bachelors,Employed,Single,Daal
+Male,1,22,50000,Bachelors,Self Emplyed,Single,Karahi Ghosht
+Female,10,26,35000,Masters,Unemployed,Single,Daal
+Male,3,37,55000,PhD,Employed,Married,Karahi Ghosht
+Female,8,23,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,120000,PhD,Unemployed,Single,Karahi Ghosht
+Male,6,23,5000,Bachelors,Self Emplyed,Single,Saag
+Male,4,33,10000,Bachelors,Unemployed,Married,Biryani
+Male,2,27,20000,Bachelors,Unemployed,Married,Naan Haleem
+Female,10,22,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,5,31,50000,Masters,Employed,Married,Karahi Ghosht
+Female,8,26,88000,PhD,Employed,Single,Biryani
+Female,9,37,120000,PhD,Employed,Married,Karahi Ghosht
+Female,7,32,60000,Bachelors,Employed,Single,Naan Haleem
+Male,4,22,5000,Bachelors,Unemployed,Single,Saag
+Female,10,30,120000,Bachelors,Employed,Married,Biryani
+Female,10,20,1000,Bachelors,Unemployed,Single,Biryani
+Female,6,37,40000,PhD,Unemployed,Married,Karahi Ghosht
+Female,9,34,1100,Masters,Unemployed,Married,Naan Haleem
+Male,5,29,100000,Bachelors,Employed,Married,Karahi Ghosht
+Male,4,21,222.22,Bachelors,Unemployed,Single,Daal
+Male,3,26,20000,Masters,Unemployed,Married,Biryani
+Male,2,33,15000,Bachelors,Unemployed,Married,Saag
+Female,10,25,10000,Bachelors,Unemployed,Single,Biryani
+Male,2,20,20000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,32,40632,Masters,Employed,Married,Karahi Ghosht
+Male,2,22,20000,Bachelors,Self Emplyed,Single,Biryani
+Male,3,34,240000,Bachelors,Employed,Married,Daal
+Male,3,31,250000,PhD,Employed,Married,Karahi Ghosht
+Male,2,36,110000,PhD,Employed,Married,Karahi Ghosht
+Female,10,27,5500,Masters,Employed,Single,Karahi Ghosht
+Male,5,29,15000,Bachelors,Unemployed,Single,Karahi Ghosht
+Female,8,25,5000,Masters,Unemployed,Single,Saag
+Female,8,35,50000,Masters,Unemployed,Married,Naan Haleem
+Female,9,24,10000,Bachelors,Unemployed,Single,Karahi Ghosht
+Male,3,35,40000,PostDoc,Employed,Single,Karahi Ghosht
+Female,7,33,28000,Intermediate,Unemployed,Married,Saag
+Female,8,23,40000,Intermediate,Self Emplyed,Single,Karahi Ghosht
+Female,9,28,39860,Masters,Employed,Married,Karahi Ghosht
+Female,10,23,10000,Masters,Self Emplyed,Single,Naan Haleem
+Male,3,19,5000,Intermediate,Unemployed,Single,Biryani
+Male,10,37,65000,Masters,Employed,Married,Saag
+Male,10,29,105000,Bachelors,Employed,Married,Biryani
+Male,5,39,286136.5,Masters,Employed,Married,Saag
+Female,8,26,30000,Masters,Unemployed,Single,Karahi Ghosht
+Male,6,24,2000,Bachelors,Unemployed,Single,Biryani
+Female,9,21,5000,Bachelors,Unemployed,Single,Biryani
+Male,2,29,198000,PhD,Employed,Other,Karahi Ghosht
+Male,3,28,3000,Masters,Unemployed,Married,Biryani
+Male,3,24,7000,Bachelors,Unemployed,Single,Biryani
+Male,2,42,120000,Bachelors,Unemployed,Married,Biryani
+Female,6,28,55000,Masters,Employed,Single,Karahi Ghosht
+Male,8,30,8000,Bachelors,Unemployed,Married,Biryani
+Female,7,21,8000,Bachelors,Unemployed,Single,Biryani
+Female,9,24,3000,Bachelors,Unemployed,Single,Biryani
+Female,10,31,300000,Bachelors,Self Emplyed,Married,Biryani
+Male,1,27,30000,Masters,Employed,Single,Karahi Ghosht
+Female,10,33,10300,Masters,Unemployed,Single,Saag
+Female,10,21,1000,Bachelors,Unemployed,Married,Biryani
+Female,6,34,3000,Masters,Unemployed,Married,Biryani
+Female,8,22,20000,Bachelors,Unemployed,Married,Daal

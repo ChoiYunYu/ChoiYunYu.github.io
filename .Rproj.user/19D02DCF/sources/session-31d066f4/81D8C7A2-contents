@@ -1,37 +1,34 @@
 library(shiny)
 library(ggplot2)
 
-# Define UI
 ui <- fluidPage(
   titlePanel("Cooking Skills and Age by Gender"),
   sidebarLayout(
     sidebarPanel(
       sliderInput("age_range", "Select Age Range:",
-                  min = 18, max = 50, value = c(18, 50)),
-    checkboxInput("marital_status", "Show Marital Status", FALSE)
-  ),
+                  min = 18, max = 50, value = c(18, 50))
+    ),
     mainPanel(
       plotOutput("scatterplot")
     )
   )
 )
 
-# Define server logic
 server <- function(input, output) {
   output$scatterplot <- renderPlot({
-    # Filter data based on selected age range
+
     filtered_data <- subset(cook_data, age >= input$age_range[1] & age <= input$age_range[2])
     
-    # Create scatter plot
+    #scatter plot
     ggplot(filtered_data, aes(x = age, y = `cooking skills`, color = Gender)) +
       geom_point() +
-      scale_y_continuous(breaks = seq(1, 10, by = 1)) + # Set y-axis breaks from 1 to 10 with single unit increments
-      scale_x_continuous(breaks = seq(18, 50, by = 2)) +
+      scale_y_continuous(breaks = seq(1, 10, by = 1)) + 
+      scale_x_continuous(breaks = seq(18, 50, by = 2)) + 
       labs(x = "Age", y = "Cooking Skills") +
-      scale_color_manual(values = c("Male" = "blue", "Female" = "red")) + # Set colors for Male and Female
+      scale_color_manual(values = c("Male" = "blue", "Female" = "red")) + 
       theme_minimal()
   })
 }
 
-# Run the application
 shinyApp(ui = ui, server = server)
+
