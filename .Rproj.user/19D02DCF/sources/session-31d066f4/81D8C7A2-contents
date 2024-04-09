@@ -24,7 +24,9 @@ server <- function(input, output) {
       geom_point() +
       scale_y_continuous(breaks = seq(1, 10, by = 1)) + 
       scale_x_continuous(breaks = seq(18, 50, by = 2)) + 
-      labs(x = "Age", y = "Cooking Skills") +
+      labs(x = "Age", y = "Cooking Skills",
+          subtitle = "Younger women generally rate their cooking skills above average compared to their male counterparts.",
+          caption = "data taken from Kaggle") +
       scale_color_manual(values = c("Male" = "blue", "Female" = "red")) + 
       theme_minimal()
   })
