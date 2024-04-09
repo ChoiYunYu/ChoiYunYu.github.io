@@ -19,7 +19,9 @@ server <- function(input, output) {
     ggplot(cook_data, aes(x = `cooking skills`, fill = Gender)) +
       geom_density(alpha = 0.5) +  
       labs(title = "Density Plot of Cooking Skills by Gender",
-           x = "Cooking Skills", y = "Density") + 
+           x = "Cooking Skills", y = "Density",
+           caption = "Date taken from Kaggle",
+           subtitle = "The density plot suggests more women self-assess their cooking skills higher") + 
       scale_fill_manual(values = c("blue", "red")) +
       theme_minimal() 
   })
