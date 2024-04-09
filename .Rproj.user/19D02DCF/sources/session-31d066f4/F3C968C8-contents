@@ -3,8 +3,6 @@ title: "Yun's Website"
 ---
 
 # Dataset
-
-![Chef Hat symbolising cooking] (chef hat.jpeg)
 ```{r, out.height= "250px",out.width= "700px",echo=TRUE,eval=TRUE}
 knitr::include_graphics("chef_hat.jpeg") 
 ```
