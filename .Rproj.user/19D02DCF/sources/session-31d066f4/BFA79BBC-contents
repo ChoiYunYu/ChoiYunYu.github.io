@@ -1,0 +1,23 @@
+---
+title: "Challenger 1"
+author: "Yun"
+date: "2024-01-16"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+My name is Yun. I am British Chinese. I have only used Stata to generate representations of data. Coding is interesting, but I suck at it. I major in Social Sciences with a pathway in sociology at the Univeristy of Sheffield.
+
+The picture is not of me as I don't have one on my laptop, but I like cats so here is a picture of a sleepy orange cat. 
+
+```{r, out.height= "250px",out.width= "700px",echo=TRUE,eval=TRUE,fig.cap=" the orange cat is sleepy"}
+knitr::include_graphics("cat.jpg") 
+```
+
