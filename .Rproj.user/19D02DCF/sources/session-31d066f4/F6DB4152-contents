@@ -2,14 +2,11 @@
 title: "About Yun"
 ---
 
-About this site
+# Cooking Data
 
-```{r}
-1 + 1
+This is my Shiny Dashboard
+
+```{=html}
+ <iframe height="400" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/myprojyes/"> </iframe>
 ```
-
-# Self-Introduction
-
-My name is Choi Yun Yu, I am a British exchanger from the University of Sheffield. I took this module because I am going to be producing a thesis next academic year and R Studio is a cohesive and concise way to organise data.
-
-The weather in Singapore is far too hot for me, but after nearly two semesters, I feel myself getting used to it. I fear that when I return to the UK (which is snowing right now) I will have to live in bundles of clothes and heaters.
+# Analysis
