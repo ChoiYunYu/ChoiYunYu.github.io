@@ -1,15 +1,13 @@
 ---
-title: "About"
+title: "My Dataset"
 ---
 
-# Cooking Data
-
-This is my Shiny Dashboard
+# How do gender, age, and marital status influence individuals' perceptions of their cooking skills?
 
 ```{=html}
  <iframe height="400" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/myprojyes/"> </iframe>
 ```
-# Analysis
+# Analysis of Dataset
 
 Gender:
 
