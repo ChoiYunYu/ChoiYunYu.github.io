@@ -21,3 +21,5 @@
 [1,"GET: /about.html\n"]
 [1,"GET: /today.html\n"]
 [1,"GET: /today.html\n"]
+[1,"GET: /today.html\nWARNING: connection closed before message completed\n"]
+[1,"GET: /theoretical.html\n"]

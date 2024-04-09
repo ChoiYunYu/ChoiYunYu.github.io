@@ -3,9 +3,9 @@
     "path": "~/NM2207/Big PROJECT/ChoiYunYu.github.io/today.qmd",
     "project_path": "today.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "67165210",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1712647979073.0,
     "source_on_save": false,
     "relative_order": 5,
@@ -22,11 +22,11 @@
         "rmdVisualModeLocation": "20:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712656592,
+    "lastKnownWriteTime": 1712657862,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712657766468,
+    "last_content_update": 1712657862798,
     "read_only": false,
     "read_only_alternatives": []
 }
