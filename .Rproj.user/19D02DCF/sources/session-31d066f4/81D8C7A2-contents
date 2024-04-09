@@ -22,7 +22,7 @@ server <- function(input, output) {
     filtered_data <- subset(cook_data, age >= input$age_range[1] & age <= input$age_range[2])
     
     #scatter plot
-    ggplot(filtered_data, aes(y = age, x = `cooking skills`, color = Gender)) +
+    ggplot(filtered_data, aes(y = age, x = cookingskills, color = Gender)) +
       geom_point() +
       scale_x_continuous(breaks = seq(1, 10, by = 1)) + 
       scale_y_continuous(breaks = seq(18, 50, by = 2)) + 

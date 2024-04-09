@@ -18,7 +18,7 @@ server <- function(input, output) {
 
   output$density_plot <- renderPlot({
 
-    ggplot(cook_data, aes(x = `cooking skills`, fill = Gender)) +
+    ggplot(cook_data, aes(x = `cookingskills`, fill = Gender)) +
       geom_density(alpha = 0.5) +  
       labs(title = "Density Plot of Cooking Skills by Gender",
            x = "Cooking Skills", y = "Density",
