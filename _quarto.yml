@@ -11,6 +11,8 @@ website:
       - about.qmd
       - today.qmd
       - theoretical.qmd
+  page-footer: 
+    left: "NM2207 - Choi Yun Yu - E1216620" 
 
 format:
   html:
