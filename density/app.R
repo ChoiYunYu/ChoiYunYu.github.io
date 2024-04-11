@@ -4,17 +4,12 @@ library(ggplot2)
 library(readr)
 cook_data <- read_csv("cooking_skills.csv")
 
-
 ui <- fluidPage(
   titlePanel("Cooking Skills Density Plot by Gender"),
-  sidebarLayout(
-    sidebarPanel(
-    ),
     mainPanel(
       plotOutput("density_plot")
     )
   )
-)
 
 server <- function(input, output) {
   
