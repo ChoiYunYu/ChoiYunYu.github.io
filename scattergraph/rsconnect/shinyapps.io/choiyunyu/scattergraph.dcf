@@ -1,12 +1,12 @@
-name: density
-title: density
+name: scattergraph
+title: scattergraph
 username: choiyunyu
 account: choiyunyu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 11728336
-bundleId: 8479962
-url: https://choiyunyu.shinyapps.io/density/
+appId: 11728072
+bundleId: 8479951
+url: https://choiyunyu.shinyapps.io/scattergraph/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE

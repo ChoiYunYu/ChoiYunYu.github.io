@@ -1,8 +1,0 @@
-library(ggplot2)
-library(plotly)
-
-gg <- ggplot(data, aes(x = factor(group), y = value)) +
-  geom_boxplot() +
-  labs(title = "Distribution of Anxiety Levels by Demographic Group")
-
-plotly_plot <- ggplotly(gg)
