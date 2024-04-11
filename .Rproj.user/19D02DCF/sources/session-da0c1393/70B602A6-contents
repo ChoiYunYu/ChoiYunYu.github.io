@@ -1,6 +1,8 @@
 library(shiny)
 library(ggplot2)
 library(dplyr)
+library(plotly)
+
 library(readr)
 
 # Load data
@@ -14,30 +16,32 @@ ui <- fluidPage(
       sliderInput("age_range", "Select Age Range:", min = 18, max = 50, value = c(18, 50))
     ),
     mainPanel(
-      plotOutput("scatterplot")
+      plotlyOutput("scatterplot")
     )
   )
 )
 
 # Define server logic
 server <- function(input, output) {
-  output$scatterplot <- renderPlot({
-    filtered_data <- cook_data %>%
-      filter(age >= input$age_range[1] & age <= input$age_range[2])
+  output$scatterplot <- renderPlotly({
+    filtered_data <- subset(cook_data, age >= input$age_range[1] & age <= input$age_range[2])
     
-    # Scatter plot
-    ggplot(filtered_data, aes(x = cookingskills, y = age, color = Gender)) +
-      geom_point() +
-      scale_x_continuous(breaks = seq(1, 10, by = 1)) + 
-      scale_y_continuous(breaks = seq(18, 50, by = 2)) + 
-      labs(
-        x = "Cooking Skills",
-        y = "Age",
-        subtitle = "Younger women generally rate their cooking skills above average compared to their male counterparts.",
-        caption = "Data taken from Kaggle"
-      ) +
-      scale_color_manual(values = c("Male" = "blue", "Female" = "red")) + 
-      theme_minimal()
+    # Check if filtered_data is not empty
+    if(nrow(filtered_data) == 0) {
+      return(NULL)
+    }
+  
+      
+    # Create the scatter plot with plot_ly
+    p <- plot_ly(data = filtered_data, x = ~cookingskills, y = ~age, color = ~Gender, text = ~paste("Gender: ", Gender, "<br>Age: ", age, "<br>Cooking Skills: ", cookingskills)) %>%
+      add_markers() %>%
+      layout(title = "Cooking Skills and Age by Gender",
+             xaxis = list(title = "Cooking Skills"),
+             yaxis = list(title = "Age"),
+             hoverlabel = list(bgcolor = "white", font = list(size = 12)))
+    
+    # Return the plotly object
+    p
   })
 }
 
