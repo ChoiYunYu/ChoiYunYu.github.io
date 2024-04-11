@@ -1,7 +1,9 @@
 library(shiny)
 library(ggplot2)
 
-cook_data <- read.csv("cooking_skills.csv")
+library(readr)
+cook_data <- read_csv("cooking_skills.csv")
+View(cook_data)
 
 ui <- fluidPage(
   titlePanel("Cooking Skills and Age by Gender"),
