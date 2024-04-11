@@ -1,34 +1,20 @@
 library(shiny)
-library(ggplot2)
 
-library(readr)
-cook_data <- read_csv("cooking_skills.csv")
-View(cook_data)
-
+# Define UI for application that draws a histogram
 ui <- fluidPage(
-  titlePanel("Cooking Skills Density Plot by Gender"),
   sidebarLayout(
-    sidebarPanel(
-    ),
-    mainPanel(
-      plotOutput("density_plot")
-    )
+    sidebarPanel(sliderInput("samplesize","Sample Size:",min = 100,max = 10000,value = 1000)),
+    mainPanel(plotOutput("distPlot"))
   )
 )
 
+# Define server logic required to draw a histogram
 server <- function(input, output) {
-  
-  output$density_plot <- renderPlot({
-    
-    ggplot(cook_data, aes(x = `cookingskills`, fill = Gender)) +
-      geom_density(alpha = 0.5) +  
-      labs(title = "Density Plot of Cooking Skills by Gender",
-           x = "Cooking Skills", y = "Density",
-           caption = "Date taken from Kaggle",
-           subtitle = "The density plot suggests more women self-assess their cooking skills higher") + 
-      scale_fill_manual(values = c("blue", "red")) +
-      theme_minimal() 
-  })
+  output$distPlot <- renderPlot({
+    hist(rnorm(input$samplesize),col='darkorchid',xlab="Sample",main="Standard Normally Distributed Sample")},
+    height=300
+  )
 }
 
+# Run the application 
 shinyApp(ui = ui, server = server)

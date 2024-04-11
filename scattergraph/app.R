@@ -11,13 +11,9 @@ View(cook_data)
 ui <- fluidPage(
   titlePanel("Cooking Skills and Age by Gender"),
   sidebarLayout(
-    sidebarPanel(
-      sliderInput("age_range", "Select Age Range:",
-                  min = 18, max = 50, value = c(18, 50))
-    ),
-    mainPanel(
-      plotOutput("scatterplot")
-    )
+    sidebarPanel(sliderInput("age_range", "Select Age Range:",
+                  min = 18, max = 50, value = c(18, 50))),
+    mainPanel(plotOutput("scatterplot"))
   )
 )
 

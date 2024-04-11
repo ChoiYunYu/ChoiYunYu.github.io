@@ -5,7 +5,7 @@ account: choiyunyu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11728336
-bundleId: 8479962
+bundleId: 8479994
 url: https://choiyunyu.shinyapps.io/density/
 version: 1
 asMultiple: FALSE
