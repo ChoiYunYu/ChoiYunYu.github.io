@@ -5,10 +5,10 @@ title: "My Dataset"
 # How do gender, age, and marital status influence individuals' perceptions of their cooking skills?
 
 ```{=html}
- <iframe height="400" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/scattergraph/"> </iframe>
+ <iframe height="350" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/scattergraph/"> </iframe>
 ```
 ```{=html}
- <iframe height="400" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/density/"> </iframe>
+ <iframe height="350" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/density/"> </iframe>
 ```
 ```{r}
 
