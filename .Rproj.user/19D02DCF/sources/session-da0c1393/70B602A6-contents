@@ -38,7 +38,9 @@ server <- function(input, output) {
       layout(title = "Cooking Skills and Age by Gender",
              xaxis = list(title = "Cooking Skills"),
              yaxis = list(title = "Age"),
-             hoverlabel = list(bgcolor = "white", font = list(size = 12)))
+             hoverlabel = list(bgcolor = "white", font = list(size = 12)),
+             margin = list(l = 100, r = 100, b = 100, t = 100),
+             legend = list(x = 0.9, y = 0.9)) # Adjust legend position
     
     # Return the plotly object
     p
