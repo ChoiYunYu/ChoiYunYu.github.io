@@ -1,0 +1,16 @@
+{
+  "hash": "fb98b2ca0a70fd56c82185320f1a3376",
+  "result": {
+    "markdown": "---\ntitle: \"An Introduction to Yun\"\nimage: \"umiyuritwo.jpg\"\nlinks:\n  - label: Instagram\n    url: \"https://www.instagram.com/lettucechoi/\"\n  - label: Email\n    url: \"mailto:yuchoiyun@gmail.com\"\noutput:\n  postcards::trestles\n---\n\n\n## Bio\n\nChoi Yun Yu is a British Chinese exchange student from the University of Sheffield. Although Chinese, she doesn't speak Mandarin, and instead, is fluent in Cantonese and Hakka.\n\nHer hobbies include: gaming, watching anime and K-dramas, and sleeping. She likes to study, but doesn't like the stress of deadlines - which causes procrastination. Yun has several tattoos, most of which are game-related, such as a Korok from the Legend of Zelda: Wind Waker, and a mascot from Genshin Impact.\n\nYun is also a part of the NUS CCA: Odoro. She has taken part in 3 events spread out across the academic year.\n\n## University Major\n\nYun's major is Applied Social Sciences with a pathway to Sociology - soon to change into international experience.\n\nThis major focuses on the research process of research, rather than only the theoretical. Therefore, this course enables its students to partake in a wide variety of subjects. As of right now, Yun has taken modules in journalism, social policy, sociology, psychology, law, gender studies, history and geography.\n\nShe initially chose this major because she was only slightly interested in Sociology, having taken it as a course in college and wasn't cemented in what she wanted to do in the future, but as she progressed through her first academic year in university, she found that she really enjoyed the research process.\n\n## Experience\n",
+    "supporting": [
+      "intropage_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -1,12 +1,11 @@
 ---
-title: "Yun's Website"
+title: "An Intro to the Cooking Skills dataset"
+image: "habbocooking.png"
+about:
+  template: broadside
 ---
 
 # Dataset
-
-```{r, out.height= "400px",out.width= "500px",echo=FALSE,eval=TRUE}
-knitr::include_graphics("chef_hat.jpeg") 
-```
 
 # Introduction
 
@@ -16,7 +15,7 @@ In this data story, we delve into a dataset that explores the relationship betwe
 
 # Context
 
-This data story uses a dataset from Kaggle titled "Cooking skills".
+This data story uses a dataset from Kaggle titled "[Cooking Skills](https://www.kaggle.com/datasets/mostafatamer/female-and-male)".
 
 (https://www.kaggle.com/datasets/mostafatamer/female-and-male)
 

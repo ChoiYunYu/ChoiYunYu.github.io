@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ChoiYunYu.github.io - Yun’s Website</title>
+<title>ChoiYunYu.github.io - An Intro to the Cooking Skills dataset</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,7 +33,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -82,8 +81,12 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
+    <a class="nav-link" href="./intropage.html" rel="" target="">
+ <span class="menu-text">Who’s Yun?</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
- <span class="menu-text">Home</span></a>
+ <span class="menu-text">Cooking Skills</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html" rel="" target="">
@@ -111,7 +114,6 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
-   
   <ul>
   <li><a href="#dataset" id="toc-dataset" class="nav-link active" data-scroll-target="#dataset">Dataset</a></li>
   <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a></li>
@@ -120,32 +122,19 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-broadside column-page">
+  <div class="about-main">
+    <div class="about-entity" style="background-image: url('habbocooking.png')"></div>
+    <div class="about-contents"><header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Yun’s Website</h1>
+<h1 class="title">An Intro to the Cooking Skills dataset</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-</header>
+</header><main class="content" id="quarto-document-content">
 
 <section id="dataset" class="level1">
 <h1>Dataset</h1>
-<div class="cell">
-<div class="cell-output-display">
-<p><img src="chef_hat.jpeg" width="500" height="400"></p>
-</div>
-</div>
 </section>
 <section id="introduction" class="level1">
 <h1>Introduction</h1>
@@ -154,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="context" class="level1">
 <h1>Context</h1>
-<p>This data story uses a dataset from Kaggle titled “Cooking skills”.</p>
+<p>This data story uses a dataset from Kaggle titled “<a href="https://www.kaggle.com/datasets/mostafatamer/female-and-male">Cooking Skills</a>”.</p>
 <p>(https://www.kaggle.com/datasets/mostafatamer/female-and-male)</p>
 <p>This dataset contained information about a sample of men and women and their cooking skills (rated on their own assumption), descriptive data of their demographics, marital status, salary and education.</p>
 <p>The columns I specifically focused on were gender, age, marital status and their self-proclaimed cooking skills. The analysis of such relations is essential because it sheds light on societal norms, household dynamics and individual perceptions. Understanding how these all intersect can provide insights into various aspects of daily life, such as gender norms within the division of labour and cultural expectations.</p>
@@ -164,8 +153,10 @@ ul.task-list li input[type="checkbox"] {
 
 
 </section>
-
-</main> <!-- /main -->
+</main></div>
+  </div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -186,13 +177,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

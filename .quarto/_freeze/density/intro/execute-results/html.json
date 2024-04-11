@@ -1,0 +1,14 @@
+{
+  "hash": "99d229df0f937374fe60d2affb441cef",
+  "result": {
+    "markdown": "---\ntitle: \"Frank Hermosillo\"\nimage: \"frank.jpg\"\nlinks:\n  - label: LinkedIn\n    url: \"https://linkedin.com/\"\n  - label: Twitter\n    url: \"https://twitter.com/\"\n  - label: GitHub\n    url: \"https://github.com/\"\n  - label: Email\n    url: \"mailto:email@email.com\"\noutput:\n  postcards::trestles\n---\n\n \n## Bio\n\nFrank Hermosillo studies neural networks and their applications at Google \nBrain. His research focuses on differentiable network pruning approximation and \ndecentralized gradient inversion mechanics. He frequently collaborates with \nresearchers who study machine learning, computer vision, and cognitive science.\nHis work has been featured in WIRED, The Atlantic, Newsweek, and The New York \nTimes Magazine.\n\n## Education\n\n**Massachusetts Institute of Technology** | Cambridge, MA\n\nPh.D. in Computer Science | September 2009 - May 2014\n\n**The University of California, Berkeley** | Berkeley, CA\n\nB.S. in Computer Science | September 2005 - May 2009\n\n## Experience\n\n**Google Brain** | Principal Investigator | January 2018 - Present\n\n**Netflix** | Research Scientist | June 2014 - December 2017\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

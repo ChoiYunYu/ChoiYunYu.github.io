@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Yun’s Website",
+    "title": "An Intro to the Cooking Skills dataset",
     "section": "",
-    "text": "Dataset\n\n\n\n\n\n\n\nIntroduction\nCooking skills are an essential aspect of daily life, whether male, female, married or single.\nIn this data story, we delve into a dataset that explores the relationship between cooking skills, age, and marital status among individuals of different genders.\n\n\nContext\nThis data story uses a dataset from Kaggle titled “Cooking skills”.\n(https://www.kaggle.com/datasets/mostafatamer/female-and-male)\nThis dataset contained information about a sample of men and women and their cooking skills (rated on their own assumption), descriptive data of their demographics, marital status, salary and education.\nThe columns I specifically focused on were gender, age, marital status and their self-proclaimed cooking skills. The analysis of such relations is essential because it sheds light on societal norms, household dynamics and individual perceptions. Understanding how these all intersect can provide insights into various aspects of daily life, such as gender norms within the division of labour and cultural expectations.\nIn many cultures, cooking is often associated with gender, with women traditionally expected to take on this responsibility and other housework chores. However, is this really true in the current era? A majority of professional chefs are recorded to be men.\nBy focusing on gender, age and marital status, we can explore how these factors influence an individual’s self-perceived culinary abilities. For example, are older men more experienced than their younger counterparts? Does marital status influence a woman cooking more, or a man cooking more than their single peers? Married individuals potentially have more opportunities to share meal preparation, seek to impress their partners or are more encouraged to try.\nThis analysis not only provides insights into individual behaviours and perceptions but also contributes to broader discussions about gender, household dynamics and cultural norms surrounding food and cooking."
+    "text": "Dataset\n\n\nIntroduction\nCooking skills are an essential aspect of daily life, whether male, female, married or single.\nIn this data story, we delve into a dataset that explores the relationship between cooking skills, age, and marital status among individuals of different genders.\n\n\nContext\nThis data story uses a dataset from Kaggle titled “Cooking Skills”.\n(https://www.kaggle.com/datasets/mostafatamer/female-and-male)\nThis dataset contained information about a sample of men and women and their cooking skills (rated on their own assumption), descriptive data of their demographics, marital status, salary and education.\nThe columns I specifically focused on were gender, age, marital status and their self-proclaimed cooking skills. The analysis of such relations is essential because it sheds light on societal norms, household dynamics and individual perceptions. Understanding how these all intersect can provide insights into various aspects of daily life, such as gender norms within the division of labour and cultural expectations.\nIn many cultures, cooking is often associated with gender, with women traditionally expected to take on this responsibility and other housework chores. However, is this really true in the current era? A majority of professional chefs are recorded to be men.\nBy focusing on gender, age and marital status, we can explore how these factors influence an individual’s self-perceived culinary abilities. For example, are older men more experienced than their younger counterparts? Does marital status influence a woman cooking more, or a man cooking more than their single peers? Married individuals potentially have more opportunities to share meal preparation, seek to impress their partners or are more encouraged to try.\nThis analysis not only provides insights into individual behaviours and perceptions but also contributes to broader discussions about gender, household dynamics and cultural norms surrounding food and cooking."
   },
   {
     "objectID": "today.html",
@@ -47,5 +47,103 @@
     "title": "My Dataset",
     "section": "Marital Status",
     "text": "Marital Status\nWhen considering marital status, regardless of gender, married individuals tend to rate their own cooking skills as higher than single people. This outcome suggests two plausible scenarios: either marriage had a positive effect on an individual’s cooking skills, such as sharing responsibilities within the kitchen or prioritising home-cooked meals instead of eating out or instant meals. Alternatively, it could be true that a spouse could exaggerate or inflate the respondent’s culinary skills, leading to a biased self-assessment."
+  },
+  {
+    "objectID": "intropage.html",
+    "href": "intropage.html",
+    "title": "An Introduction to… Choi Yun Yu",
+    "section": "",
+    "text": "bsicons::bs_icon(“instagram”, size = “3rem”)\nInstagram Email"
+  },
+  {
+    "objectID": "intropage.html#bio",
+    "href": "intropage.html#bio",
+    "title": "An Introduction to… Choi Yun Yu",
+    "section": "Bio",
+    "text": "Bio\nChoi Yun Yu is a British Chinese exchange student from the University of Sheffield. Although Chinese, she doesn’t speak Mandarin, and instead, is fluent in Cantonese and Hakka. Her hobbies include: gaming, watching anime and K-dramas, and sleeping. She likes to study, but doesn’t like the stress of deadlines - which causes procrastination. Yun has several tattoos, most of which are game-related, such as a Korok from the Legend of Zelda: Wind Waker, and a mascot from Genshin Impact.\nYun is also a part of the NUS CCA: Odoro. She has taken part in 3 events spread out across the academic year."
+  },
+  {
+    "objectID": "intropage.html#university-major",
+    "href": "intropage.html#university-major",
+    "title": "An Introduction to… Choi Yun Yu",
+    "section": "University Major",
+    "text": "University Major\nYun’s major is Applied Social Sciences with a pathway to Sociology - soon to change into international experience.\nThis major focuses on the research process of research, rather than only the theoretical. Therefore, this course enables its students to partake in a wide variety of subjects. As of right now, Yun has taken modules in journalism, social policy, sociology, psychology, law, gender studies, history and geography.\nShe initially chose this major because she was only slightly interested in Sociology, having taken it as a course in college and wasn’t cemented in what she wanted to do in the future, but as she progressed through her first academic year in university, she found that she really enjoyed the research process."
+  },
+  {
+    "objectID": "intropage.html#experience",
+    "href": "intropage.html#experience",
+    "title": "An Introduction to… Choi Yun Yu",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "density/intro.html",
+    "href": "density/intro.html",
+    "title": "Frank Hermosillo",
+    "section": "",
+    "text": "Frank Hermosillo studies neural networks and their applications at Google Brain. His research focuses on differentiable network pruning approximation and decentralized gradient inversion mechanics. He frequently collaborates with researchers who study machine learning, computer vision, and cognitive science. His work has been featured in WIRED, The Atlantic, Newsweek, and The New York Times Magazine."
+  },
+  {
+    "objectID": "density/intro.html#bio",
+    "href": "density/intro.html#bio",
+    "title": "Frank Hermosillo",
+    "section": "",
+    "text": "Frank Hermosillo studies neural networks and their applications at Google Brain. His research focuses on differentiable network pruning approximation and decentralized gradient inversion mechanics. He frequently collaborates with researchers who study machine learning, computer vision, and cognitive science. His work has been featured in WIRED, The Atlantic, Newsweek, and The New York Times Magazine."
+  },
+  {
+    "objectID": "density/intro.html#education",
+    "href": "density/intro.html#education",
+    "title": "Frank Hermosillo",
+    "section": "Education",
+    "text": "Education\nMassachusetts Institute of Technology | Cambridge, MA\nPh.D. in Computer Science | September 2009 - May 2014\nThe University of California, Berkeley | Berkeley, CA\nB.S. in Computer Science | September 2005 - May 2009"
+  },
+  {
+    "objectID": "density/intro.html#experience",
+    "href": "density/intro.html#experience",
+    "title": "Frank Hermosillo",
+    "section": "Experience",
+    "text": "Experience\nGoogle Brain | Principal Investigator | January 2018 - Present\nNetflix | Research Scientist | June 2014 - December 2017"
+  },
+  {
+    "objectID": "bsicons-main/revdep/problems.html",
+    "href": "bsicons-main/revdep/problems.html",
+    "title": "ChoiYunYu.github.io",
+    "section": "",
+    "text": "Wow, no problems at all. :)"
+  },
+  {
+    "objectID": "bsicons-main/revdep/cran.html",
+    "href": "bsicons-main/revdep/cran.html",
+    "title": "ChoiYunYu.github.io",
+    "section": "",
+    "text": "We checked 2 reverse dependencies, comparing R CMD check results across CRAN and dev versions of this package.\n\nWe saw 0 new problems\nWe failed to check 0 packages"
+  },
+  {
+    "objectID": "bsicons-main/revdep/cran.html#revdepcheck-results",
+    "href": "bsicons-main/revdep/cran.html#revdepcheck-results",
+    "title": "ChoiYunYu.github.io",
+    "section": "",
+    "text": "We checked 2 reverse dependencies, comparing R CMD check results across CRAN and dev versions of this package.\n\nWe saw 0 new problems\nWe failed to check 0 packages"
+  },
+  {
+    "objectID": "bsicons-main/LICENSE.html",
+    "href": "bsicons-main/LICENSE.html",
+    "title": "MIT License",
+    "section": "",
+    "text": "MIT License\nCopyright (c) 2022 bsicons authors\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+  },
+  {
+    "objectID": "bsicons-main/NEWS.html",
+    "href": "bsicons-main/NEWS.html",
+    "title": "bsicons (development version)",
+    "section": "",
+    "text": "bsicons (development version)\n\n\nbsicons 0.1.2\n\nUpdate icons from v1.10.2 to v1.11.1 (see release notes). (#9)\nbs_icon() now defaults to a11y=\"sem\" when title is provided, meaning that the title is shown on hover and announced by screen readers by default (#8).\n\n\n\nbsicons 0.1.1\n\nImproved default vertical alignment of icons in an inline context (#4).\nImproved error message when an unrecognized icon is provided to bs_icon() (#5).\n\n\n\nbsicons 0.1\n\nInitial release of package."
+  },
+  {
+    "objectID": "bsicons-main/revdep/failures.html",
+    "href": "bsicons-main/revdep/failures.html",
+    "title": "ChoiYunYu.github.io",
+    "section": "",
+    "text": "Wow, no problems at all. :)"
   }
 ]

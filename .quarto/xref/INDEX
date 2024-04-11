@@ -10,5 +10,29 @@
   },
   "theoretical.qmd": {
     "theoretical.html": "d73eff01"
+  },
+  "intropage.Rmd": {
+    "intropage.html": "659ef403"
+  },
+  "density/intro.Rmd": {
+    "intro.html": "2e7f9861"
+  },
+  "intropage.qmd": {
+    "intropage.html": "5b35f55a"
+  },
+  "bsicons-main/LICENSE.md": {
+    "LICENSE.html": "6a9267aa"
+  },
+  "bsicons-main/NEWS.md": {
+    "NEWS.html": "85c1bf81"
+  },
+  "bsicons-main/revdep/cran.md": {
+    "cran.html": "11479de8"
+  },
+  "bsicons-main/revdep/failures.md": {
+    "failures.html": "a39620a3"
+  },
+  "bsicons-main/revdep/problems.md": {
+    "problems.html": "b92f7a20"
   }
 }
