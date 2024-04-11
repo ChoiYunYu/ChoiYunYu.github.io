@@ -21,7 +21,7 @@ server <- function(input, output) {
            x = "Cooking Skills", y = "Density",
            caption = "Date taken from Kaggle",
            subtitle = "The density plot suggests more women self-assess their cooking skills higher") + 
-      scale_fill_manual(values = c("blue", "red")) +
+      scale_fill_manual(values = c("green", "grey")) +
       theme_minimal() 
   })
 }

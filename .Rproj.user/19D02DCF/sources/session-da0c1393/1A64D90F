@@ -3,7 +3,7 @@
     "path": "~/NM2207/Big PROJECT/ChoiYunYu.github.io/density/app.R",
     "project_path": "density/app.R",
     "type": "r_source",
-    "hash": "2639314138",
+    "hash": "2723845958",
     "contents": "",
     "dirty": false,
     "created": 1712822863725.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "11,2",
-        "scrollLine": "3"
+        "cursorPosition": "23,49",
+        "scrollLine": "12"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712828401,
+    "lastKnownWriteTime": 1712831427,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712828401428,
+    "last_content_update": 1712831427255,
     "read_only": false,
     "read_only_alternatives": []
 }

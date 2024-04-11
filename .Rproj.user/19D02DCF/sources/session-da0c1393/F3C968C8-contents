@@ -4,7 +4,7 @@ title: "Yun's Website"
 
 # Dataset
 
-```{r, out.height= "400px",out.width= "700px",echo=TRUE,eval=TRUE}
+```{r, out.height= "400px",out.width= "500px",echo=FALSE,eval=TRUE}
 knitr::include_graphics("chef_hat.jpeg") 
 ```
 
