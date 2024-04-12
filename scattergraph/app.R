@@ -4,8 +4,6 @@ library(dplyr)
 library(plotly)
 
 library(readr)
-
-# Load data
 cook_data <- read_csv("cooking_skills.csv")
 
 # Define UI

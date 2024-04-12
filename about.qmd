@@ -22,4 +22,10 @@ This is a density plot illustrating the density of genders against self-rated co
 ```{=html}
  <iframe height="600" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/density/"> </iframe>
 ```
+
+```{=html} 
+ <iframe height="600" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/groupbar/"> </iframe>
+
+```
+
 # Reading the graphs

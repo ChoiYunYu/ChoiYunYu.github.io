@@ -1,26 +1,26 @@
 {
-    "id": "1A64D90F",
-    "path": "~/NM2207/Big PROJECT/ChoiYunYu.github.io/density/app.R",
-    "project_path": "density/app.R",
+    "id": "7DDACDA2",
+    "path": "~/NM2207/Big PROJECT/ChoiYunYu.github.io/groupbar/app.R",
+    "project_path": "groupbar/app.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1712822863725.0,
+    "created": 1712919983541.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "3,0",
-        "scrollLine": "0"
+        "cursorPosition": "49,17",
+        "scrollLine": "38"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712831427,
+    "lastKnownWriteTime": 1712922598,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712831427255,
+    "last_content_update": 1712922598587,
     "read_only": false,
     "read_only_alternatives": []
 }
