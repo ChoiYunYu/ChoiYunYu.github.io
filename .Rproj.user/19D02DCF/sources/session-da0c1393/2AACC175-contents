@@ -11,8 +11,6 @@ about:
   template: trestles
 ---
 
-bsicons::bs_icon("instagram", size = "3rem")
-
 [Instagram](https://www.instagram.com/lettucechoi/) [Email](mailto:yuchoiyun@gmail.com)
 
 ## Bio

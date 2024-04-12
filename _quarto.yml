@@ -14,6 +14,7 @@ website:
       - href: index.qmd
         text: Cooking Skills
       - about.qmd
+      - analysis.qmd
       - today.qmd
       - theoretical.qmd
   page-footer: 

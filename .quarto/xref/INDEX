@@ -34,5 +34,8 @@
   },
   "bsicons-main/revdep/problems.md": {
     "problems.html": "b92f7a20"
+  },
+  "analysis.qmd": {
+    "analysis.html": "26067a39"
   }
 }
