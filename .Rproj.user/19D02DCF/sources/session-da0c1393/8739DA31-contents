@@ -1,21 +1,102 @@
 ---
-title: "analysis"
+title: "Analysis of Dataset"
 ---
-
-# Analysis of Dataset
 
 ## Gender
 
-The scatter plot illustrates that in the sample, women tended to rate their own cooking skills as higher than average compared to males, with a few anomalies. Through this, we can determine that gender norms and expectations (stemming from past historical contexts) can shape an individual’s perception. 
+::: {style="display: flex; align-items: flex-start;"}
+::: {style="flex: 0 0 auto; margin-right: 20px;"}
+```{r, out.height= "250px",out.width= "350px",echo=FALSE,eval=TRUE}
+knitr::include_graphics("gender.jpg")
+```
+:::
 
-For example, since ancient times, domesticity was the realm relegated to women, including household chores, children and cooking. Therefore, throughout the generations, this traditional mindset has stayed and women are still often being socialised and socially expected to take on these responsibilities - and thus feel a greater sense of confidence in their cooking skills when compared to men. Additionally, this socialisation may contribute to a woman’s awareness of domestic tasks, including cooking, leading to higher self-assessments. 
+::: {style="flex: 1;"}
+Historically, gender-wise, women have traditionally been responsible for domestic tasks, including cooking. Thus cooking has been associated with feminity, which has resulted in a cultural expectation for young girls to be socialised in preparation for this - this has remained even today, represented in institutions such as the education system.
+:::
+:::
 
-However, there are still anomalies, where men have rated themselves higher than average. I suggest that this is contextual and depends on the unique narratives of each individual. For example, some men may possess culinary expertise through careers, or personal interest. However, some men may inflate their own rating out of overconfidence or narcissism. 
+Here, the gendered subject stereotyping of school subjects is subconsciously being divided by gender. Consequently resulting in boys and girls gravitating towards certain subjects based on societal expectations and socialisation, rather than individual interests or abilities. Even if they do follow their own interests, these have often been socialised from a young age.
+
+As a result of this socialisation, female respondents may have a greater sense of confidence in their cooking skills. The social reinforcement of gender roles may lead women to perceive cooking as a natural and expected part of their responsibilities.
+
+For men, some men may adhere to traditional gender roles and thus either rarely cook, or have little to no confidence in their own skills. Similar to women, men may have avoided subjects that were deemed ‘too feminine’ such as humanities and food and economics. As such, this trend of men ranking themselves lower reflects norms about masculinity, where cooking is associated with women and thus it is less masculine or less important compared to other avenues of life - which then causes men to avoid it. This is especially true in less-developed countries or in men who still embody the misogynistic point of view that ‘women-belong-in-the-kitchen’. However, this is more common with older men, as younger men seem to be more accepting of cooking as a skill. This is reinforced by more women seeking career success over marriage success and thus men being more unlikely to find a wife who prioritises being a housewife. Furthermore, due to shifts in societal expectations, there is a greater equality between couples, often fairly distributing household chores and sharing the dual burden of housework and monetary work. People are now expected to know how to do basic household duties, regardless of gender.
+
+<!--html_preserve-->
+<button onclick="toggleDropdown()">TL;DR</button>
+<div id="dropdown-content" style="display: none;">
+Societal Norms: Entrenched societal norms and gender roles associate cooking primarily with women, leading to a sense of confidence and competence in culinary activities among female respondents.
+
+Masculinity Perceptions: Evolving perceptions of masculinity and domesticity may influence male respondents self-reported cooking skills, with younger generations feeling more empowered to embrace cooking as a skill. Men exhibit greater variability in self-reported cooking skills, reflecting a complex interplay of societal expectations, individual experiences, and cultural influences.
+
+Promoting Equity: Understanding the dynamics of gender and self-reported cooking skills is crucial for addressing gender disparities in domestic responsibilities and promoting equitable participation in culinary activities across gender lines.
+</div>
+<!--/html_preserve-->
 
 ## Age
 
-As age increases, there seems to be a slight decline in self-reported cooking skills amongst both males and females. This trend suggests that younger individuals perceive themselves to be more proficient in cooking compared to the older generation. Looking at social factors and societal changes, it is possible to consider that older individuals may have developed a more modest perception of their cooking skills and a routine approach, viewing it as a daily task rather than a skill to be evaluated, especially in women. Furthermore, changing dietary norms and preferences over time may have played a role. Older individuals may be more accustomed to cooking dishes that are no longer popular or seen among the younger generation, leading them to feel less confident in their cooking skills when compared to the preferences of today’s society.
+::: {style="display: flex; align-items: flex-start;"}
+::: {style="flex: 0 0 auto; margin-right: 20px;"}
+```{r, out.height= "250px",out.width= "350px",echo=FALSE,eval=TRUE}
+knitr::include_graphics("age.jpeg")
+```
+:::
+
+::: {style="flex: 1;"}
+A look at the graphs reveals interesting patterns regarding age and one’s own self-reported cooking skills. Younger individuals consistently rate themselves higher in cooking proficiency, reflecting a generational shift in attitudes towards culinary skills.
+:::
+:::
+
+This generational difference can therefore be attributed to reflecting attitudes towards food preparation and domestic responsibilities. Historically, cooking was majorly associated with femininity and was a core task for the housewife. However as societal norms have changed with time, so has this mindset. Gradually, society has shifted towards breaking out of these roles - now mostly expecting both genders to work and participate in the household. Consequently, younger generations may have greater confidence in their cooking skills, irrespective of gender due to a more equal distribution of domestic chores.
+
+Moreover, for older generations, cooking was often primarily viewed as a necessary chore, driven by practicality. This is reinforced by making cooking as a domestic obligation for housewives rather than a leisure activity - therefore older individuals may approach cooking as a sense of duty, and thus rate their own cooking lower. In contrast, younger generations are now more likely to view cooking as a hobby or as a form of self-expression. Food can be easily accessed through buying ready meals, or eating out or a takeaway - yet some people choose to cook and are enthused due to increased exposure. Cooking is also now easier. For example, the availability of pre-packaged ingredients and convenience foods has made cooking less intimidating for novices - for instance, pe-cut vegetables, single-serving grains, and meal kits - which cut out the need for extensive meal preparation and skills, and thus allowing individuals of today to create home-made meals with minimal effort, and build confidence.
+
+Furthermore, the proliferation of the internet has increased exposure to culinary influences through media, education and social networks - easily distributing new techniques and cuisine to those who use media; more often the younger generation. There is greater access to culinary resources, as the internet has freely democratised access, making it easier to have cooking tutorials, recipes and knowledge on one screen. Media platforms like YouTube, cooking websites, interactive cooking forums, and social media provide a vast range of multimodal dissemination to cater to a wider range of audiences. Therefore, the internet can serve as a virtual culinary classroom - with the user as the student.
+
+<!--html_preserve-->
+<button onclick="toggleDropdown2()">
+  TL;DR
+</button>
+
+<div id="dropdown-content2" style="display: none;">
+  Generational Shifts: Younger individuals consistently rate themselves higher in cooking proficiency, reflecting a generational shift in attitudes towards culinary skills.
+
+Traditional Gender Roles: Older individuals may adopt a more modest perception of their cooking skills due to entrenched gender norms and societal expectations prevalent during their formative years.
+
+Chore vs Hobby: Older generations may have viewed cooking as a necessary chore, however, younger generations have tools that help them view it as a hobby.
+
+Culinary Influences: Increased exposure to culinary influences through media, education, and social networks may contribute to heightened confidence in cooking abilities among younger generations.
+
+</div>
+<!--/html_preserve-->
 
 ## Marital Status
 
-When considering marital status, regardless of gender, married individuals tend to rate their own cooking skills as higher than single people. This outcome suggests two plausible scenarios: either marriage had a positive effect on an individual’s cooking skills, such as sharing responsibilities within the kitchen or prioritising home-cooked meals instead of eating out or instant meals. Alternatively, it could be true that a spouse could exaggerate or inflate the respondent’s culinary skills, leading to a biased self-assessment.
+Married individuals reported a high cooking skill compared to their single counterparts - except for single women.
+
+Firstly, within marital relationships, it is more likely that responsibilities are shared, including cooking. Therefore, there may be more opportunities for both partners to develop and refine their cooking skills. This can then improve confidence and actual skill level, as they would actively be practising to contribute to cooking for the household. The dynamics within the household can influence routines and traditions around food, reflecting values, preferences and cultural background. For, example, some couples may view cooking as a way to promote health, whilst others may view cooking as a creative outlet or a sign of expression to share with each other. These household dynamics shape individuals' attitudes towards cooking and contribute to their self-assessment of cooking skills, which may vary depending on the level of involvement and satisfaction with their role in the kitchen. Furthermore, cooking together can strengthen bonds within the relationship.
+
+However, on the other hand, married individuals are more likely to taste another's cooking, or receive more feedback on their own cooking, which influences their own perception. This is especially true for couples with children, who are then needed to be catered to, and may even insult the food. Single individuals, in contrast, are like an echo chamber. They are able to cook to their own preferences, thus more likely to rate themselves higher. 
+
+Secondly, in contrast, single individuals can approach cooking in two ways. One is that being single has increased responsibility and independence. Without a partner to share responsibility, single people have greater autonomy and flexibility with their cooking choices - but other than that, they must either learn to cook, or to constantly eat outside of the home - which is expensive on a single income. Additionally, single individuals may prioritise efficiency, opting for quick and easy meal choices that require minimal preparation, and thus build their confidence in their skills.
+
+However, another way to see this is that due to the extensive amount of ready-made meals and takeaways available, single individuals may opt for those options if they can afford it. Accentuating this is the rising inflation in some countries. For example, in Singapore, the cost of groceries often is on par with eating outside, making it redundant to buy fresh produce and cook your own meals when it could be prepared for you for the same cost.
+
+This disparity between genders (where single women rate themselves far higher than single men) may be attributed to healthy eating and body image. Women are often more aware of their food choices. Body image and food go hand in hand, and as women are socialised in the modern age to always aim to look ‘instgrammable’ (AKA thin and long proportions, with curves in the ‘right places’), and as fast food is frequently made with high levels of sodium and oil (taste over health) women are more likely to cook at home. Men, however, often are not placed with the same restrictions and may eat out as they wish.
+
+<!--html_preserve-->
+<button onclick="toggleDropdown3()">
+  TL;DR
+</button>
+
+<div id="dropdown-content3" style="display: none;">
+  Shared Responsibilities: Within marital relationships, shared responsibilities and collaborative efforts in the kitchen may contribute to a sense of confidence and competence in cooking.
+
+  Household Dynamics: Cooking practices and perceptions are influenced by household dynamics, with married individuals often viewing cooking as a shared responsibility or a means of nurturing familial bonds.
+
+  Singlehood Perspectives: Single individuals may approach cooking from a perspective of self-sufficiency or convenience, leading to varied self-assessment scores based on individual preferences and priorities.
+
+  Diverse Motivations: The presence of outliers among single individuals underscores the diverse motivations and experiences that shape self-assessment, ranging from personal interest to cultural influences.
+</div>
+<!--/html_preserve-->
+

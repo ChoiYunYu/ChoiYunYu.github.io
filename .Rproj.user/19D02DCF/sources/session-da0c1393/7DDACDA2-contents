@@ -5,15 +5,18 @@ library(plotly)
 library(readr)
 cook_data <- read_csv("cooking_skills.csv")
 
-# Define UI
 ui <- fluidPage(
   titlePanel("Marital Status and Cooking Skills"),
   sidebarLayout(
     sidebarPanel(
-      # Input: Checkboxes for marital status
+      #Checkboxes for marital status
       checkboxGroupInput("marital_status", "Marital Status:",
                          choices = c("Single", "Married", "Other"),
-                         selected = c("Single", "Married", "Other"))
+                         selected = c("Single", "Married", "Other")),
+      #Checkboxes for gender
+      checkboxGroupInput("gender", "Gender:",
+                         choices = c("Male", "Female"),
+                         selected = c("Male", "Female"))
     ),
     mainPanel(
       # Output: Grouped bar chart
@@ -22,17 +25,18 @@ ui <- fluidPage(
   )
 )
 
-# Define server logic
+
 server <- function(input, output) {
-  # Function to generate grouped bar chart
+  #generate grouped bar chart
   output$grouped_bar_chart <- renderPlotly({
-    # Subset data based on selected marital status
-    subset_data <- subset(cook_data, marital_status %in% input$marital_status)
+    # Subset data
+    subset_data <- cook_data %>%
+      filter(marital_status %in% input$marital_status, Gender %in% input$gender)
     
-    # Define custom colors
+    # Define colors
     colors <- c("Single" = "lightgreen", "Married" = "pink", "Other" = "yellow")
     
-    # Create grouped bar chart with custom colors
+    #grouped bar chart
     plot <- ggplot(subset_data, aes(x = factor(cookingskills), fill = factor(marital_status))) +
       geom_bar(position = "dodge", stat = "count") +
       scale_fill_manual(values = colors) +  # Set custom colors
@@ -40,17 +44,16 @@ server <- function(input, output) {
       ggtitle("Cooking Skills by Marital Status") +
       scale_y_continuous(breaks = seq(0, 60, by = 10))  # Set y-axis breaks
     
-    # Convert ggplot object to plotly
     plotly_object <- ggplotly(plot)
     
-    # Add hover info
+    #hover menu
     plotly_object <- plotly_object %>%
       layout(legend = list(orientation = "v", x = 1, y = 0.5)) %>%
       config(displayModeBar = FALSE)
+    
     plotly_object
   })
 }
 
 
-# Run the application
 shinyApp(ui = ui, server = server)

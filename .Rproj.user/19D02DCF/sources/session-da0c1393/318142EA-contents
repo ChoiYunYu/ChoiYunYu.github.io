@@ -2,4 +2,42 @@
 title: "Theoretical Things to consider"
 ---
 
-# Theoretical Things to consider
+## Secondary Source
+There are several areas to consider when using secondary sources.
+
+Firstly, secondary sources may not always produce valid results. As the data source did not provide detailed context on the credibility, methodology and collection, I cannot verify this data as truth.
+
+Secondly, there is risk of the original posters of being influenced by bias or having a specific agenda when publishing this data. As Kaggle is an anonymous website, I cannot confirmt their demographic or motive. 
+Furthermore, I must consider the possibility that some data may have been edited or removed, aligning with their agenda.
+
+## Representative
+While this data set brings valuable insights to the self-assessed cooking skills of different demographics. It is important to understand that certain groups may be underrrepresented in this dataset. 
+
+#### Sampling Bias + Self-Assessment
+"Sampling bias occurs when some members of a population are systematically more likely to be selected in a sample than others."(Bhandari, 2020)
+
+There may be overrepresentation of certain groups within this dataset.  In this survey, participation was voluntary, which introduces the possibility of self-selection bias. People who were enthusiastic about sharing their cooking skills were more likely to participate, potentially skewing the results. Self-assessment can be subjective and influenced by various factors, including social desirability bias, where individuals may provide responses they perceive as socially acceptable.
+
+Traditionally, cooking has been associated with women's domestic roles, which could influence participation. Women who didn't rate themselves highly might have been less inclined to participate or lie, fearing embarrassment and negative evaluation. Afterall, there are mindsets that state that if they could not do the one thing that they were expected to do since young, it would cause social stigma.
+
+On the other hand, men who adhered to traditional gender norms or valued masculinity might have been proud to rate themselves lower, as it aligned with societal expectations of men avoiding feminine tasks like cooking.
+
+This bias in participation could impact both the validity and representativeness of the sample. It's possible that women were overrepresented among those who rated themselves highly, while men might have been more prevalent among those who rated themselves lower. As a result, the survey results may not accurately reflect the full range of cooking skills in the population.
+
+### Generalisation
+Generalisability refers to the extent of how the findings of a study can be applied to a larger population beyond the sample that was studied.
+
+The dataset "Cooking Skills" is limited in this as there was a limited number of respondents - inadequately representing the diversity of individuals worldwide.
+
+Firstly, there are cultural and regional variations. For example, different regions may have different social norms, affecting an individual's daily life and their perception of themselves. A dataset from a single culture will not capture this diversity.
+
+Secondly, other factors, such as socioeconomic background, race, and education level was not taken into account in this data story. 
+For example, those with higher socioeconomic status may have greater access to culinary education, diverse ingredients and kitchen equipment, enhancing their cooking skills. However, on the flip side, having a higher socioeconomic background could also mean that individuals would not need to cook, and could simply eat out or order food. 
+Similarly, those in lower tax brackets may have limited access to fresh ingredients, or have time constraints due to work or caregiving responsibilities, and thus may need to resort to ready-made meals. However, a lower socioeconomic income could also mean that individuals prefer to meal plan and prepare their own food to save costs and time. 
+
+
+## Verstehen (Interpretation)
+
+Lastly, the analysis aspect of this data story may not be the same as another persons. As a studying social scientist, I understand that interpretation is subjective. Each reader brings their own perspectives, experiences and biases in the process of interpreting data, and I am no different. 
+
+Therefore, especially with this data set being secondary data, I cannot say that my analysis is the absolute truth, but can simply aim to persuade the reader to consider these perspectives.

@@ -5,8 +5,9 @@ account: choiyunyu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11728336
-bundleId: 8480093
+bundleId: 8486255
 url: https://choiyunyu.shinyapps.io/density/
 version: 1
 asMultiple: FALSE
 asStatic: FALSE
+ignoredFiles: frank.jpg|intro.Rmd

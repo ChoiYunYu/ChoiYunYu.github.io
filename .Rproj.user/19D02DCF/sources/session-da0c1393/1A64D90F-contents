@@ -6,10 +6,10 @@ cook_data <- read_csv("cooking_skills.csv")
 
 ui <- fluidPage(
   titlePanel("Cooking Skills Density Plot by Gender"),
-    mainPanel(
-      plotOutput("density_plot")
-    )
+  mainPanel(
+    plotOutput("density_plot")
   )
+)
 
 server <- function(input, output) {
   
@@ -22,7 +22,8 @@ server <- function(input, output) {
            caption = "Date taken from Kaggle",
            subtitle = "The density plot suggests more women self-assess their cooking skills higher") + 
       scale_fill_manual(values = c("green", "grey")) +
-      theme_minimal() 
+      theme_minimal() +
+      coord_cartesian(ylim = c(0, NA))  # Adjust y-axis limits
   })
 }
 

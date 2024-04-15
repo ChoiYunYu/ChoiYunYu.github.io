@@ -5,7 +5,7 @@ account: choiyunyu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11740534
-bundleId: 8485361
+bundleId: 8485459
 url: https://choiyunyu.shinyapps.io/groupbar/
 version: 1
 asMultiple: FALSE

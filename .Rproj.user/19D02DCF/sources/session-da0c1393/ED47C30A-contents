@@ -1,0 +1,62 @@
+---
+title: "My Dataset"
+---
+
+::: {style="display: flex; align-items: flex-start;"}
+::: {style="flex: 0 0 auto; margin-right: 20px;"}
+```{r, out.height= "250px",out.width= "300px",echo=FALSE,eval=TRUE}
+knitr::include_graphics("data.png")
+```
+:::
+
+::: {style="flex: 1;"}
+This dataset contained information about a sample of men and women and their cooking skills (rated on their own assumption), descriptive data of their demographics, marital status, salary and education.
+
+The columns I specifically focused on were gender, age, marital status and their self-proclaimed cooking skills. The analysis of such relations is essential because it sheds light on societal norms, household dynamics, and individual perceptions. Understanding how these all intersect can provide insights into various aspects of daily life, such as gender norms within the division of labour and cultural expectations.
+:::
+:::
+
+# Graphs
+
+## Scatter-plot Graph - Gender + Age + Cooking Skills
+
+The scattergraph presents a visual representation of the relationships between gender, age and self-assessed cooking skills within the dataset. Each point on the graph corresponds to a respondent's characteristics, with gender shown in the colour, age on the y-axis and cooking skills on the x-axis.
+
+(Hover over each point to better see the statistics of each point)
+
+```{=html}
+ <iframe height="465" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/scattergraph/"> </iframe>
+```
+Firstly, women did not assess themselves below a 6 in terms of cooking skills, indicating a trend of higher self-assessment amongst female respondents.
+
+Men, on the other hand, were more scattered, with a majority clustered at the lower end of the scale. However, there were anomalies at ratings 6, 8 and 10 - suggesting some variability among male respondents.
+
+Additionally, there is clearly a trend where younger women were more likely to rate themselves higher compared to older women, indicating a potential age-related influence on self-assessed cooking skills among female respondents.
+
+## Density Plot - Gender + Cooking Skills
+
+This is a density plot illustrating the density of genders against self-rated cooking skills. By examining the curves and peaks, we can analyse patterns in how cooking skills are perceived within each gender.
+
+```{=html}
+ <iframe height="450" width="150%" frameborder="no" src="https://choiyunyu.shinyapps.io/density/"> </iframe>
+```
+Our first notice is that among men, the density curve tends to skew towards the lower end of the self-assessment, with a prominent peak at 2.5 or 3, suggesting that a considerable proportion of men in the sample perceive their own cooking skills as relatively low.
+
+Women, however, display a different pattern, favouring the higher end of the spectrum. The plot clearly displays noticeable and taller peaks at rankings 8 and 10, suggesting a substantial sample of women rate their cooking skills higher.
+
+## Group Bar Chart - Gender + Marital Status + Cooking Skills
+
+This grouped bar chart shows each marital status of "Married", "Single" and "Other" and its comparison against self-assessed cooking skills and gender.
+
+```{=html}
+ <iframe height="465" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/groupbar/"> </iframe>
+```
+Married respondents, regardless of gender, illustrated a notable trend toward higher self-assessed cooking skills. Among the male respondents, it was only the married men who rated themselves higher than an 8, suggesting that married individuals are influenced by the domestic responsibilities associated with familial roles.
+
+Contrastingly, single women tended to rank themselves higher than their married counterparts, suggesting self-confidence and self-reliance associated with single-hood - where individuals may invest more in developing their cooking skills as a means of self-sufficiency.
+
+Single men, however, did not rank themselves as high - none passing a score of 6, hinting at a possible lack of emphasis on cooking skills in their lifestyles.
+
+In the overall table, the higher rankings are dominated by single people - however, a look at the genders shows that this is majorly due to single women.
+
+It was also interesting that only men labeled their marital status as "other" (ranked on the lower spectrum of 2 and 5).

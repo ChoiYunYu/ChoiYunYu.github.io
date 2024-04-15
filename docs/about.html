@@ -95,11 +95,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./analysis.html" rel="" target="">
- <span class="menu-text">analysis</span></a>
+ <span class="menu-text">Analysis</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./today.html" rel="" target="">
- <span class="menu-text">What the Data says about Society Today</span></a>
+ <span class="menu-text">Educational Resources</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./theoretical.html" rel="" target="">
@@ -123,10 +123,10 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#graphs" id="toc-graphs" class="nav-link active" data-scroll-target="#graphs">Graphs</a>
   <ul class="collapse">
-  <li><a href="#scatterplot-graph" id="toc-scatterplot-graph" class="nav-link" data-scroll-target="#scatterplot-graph">Scatterplot Graph</a></li>
-  <li><a href="#density-plot" id="toc-density-plot" class="nav-link" data-scroll-target="#density-plot">Density Plot</a></li>
+  <li><a href="#scatter-plot-graph---gender-age-cooking-skills" id="toc-scatter-plot-graph---gender-age-cooking-skills" class="nav-link" data-scroll-target="#scatter-plot-graph---gender-age-cooking-skills">Scatter-plot Graph - Gender + Age + Cooking Skills</a></li>
+  <li><a href="#density-plot---gender-cooking-skills" id="toc-density-plot---gender-cooking-skills" class="nav-link" data-scroll-target="#density-plot---gender-cooking-skills">Density Plot - Gender + Cooking Skills</a></li>
+  <li><a href="#group-bar-chart---gender-marital-status-cooking-skills" id="toc-group-bar-chart---gender-marital-status-cooking-skills" class="nav-link" data-scroll-target="#group-bar-chart---gender-marital-status-cooking-skills">Group Bar Chart - Gender + Marital Status + Cooking Skills</a></li>
   </ul></li>
-  <li><a href="#reading-the-graphs" id="toc-reading-the-graphs" class="nav-link" data-scroll-target="#reading-the-graphs">Reading the graphs</a></li>
   </ul>
 </nav>
     </div>
@@ -150,27 +150,49 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
+<div style="display: flex; align-items: flex-start;">
+<div style="flex: 0 0 auto; margin-right: 20px;">
+<div class="cell">
+<div class="cell-output-display">
+<p><img src="data.png" width="300" height="250"></p>
+</div>
+</div>
+</div>
+<div style="flex: 1;">
 <p>This dataset contained information about a sample of men and women and their cooking skills (rated on their own assumption), descriptive data of their demographics, marital status, salary and education.</p>
 <p>The columns I specifically focused on were gender, age, marital status and their self-proclaimed cooking skills. The analysis of such relations is essential because it sheds light on societal norms, household dynamics, and individual perceptions. Understanding how these all intersect can provide insights into various aspects of daily life, such as gender norms within the division of labour and cultural expectations.</p>
+</div>
+</div>
 <section id="graphs" class="level1">
 <h1>Graphs</h1>
-<section id="scatterplot-graph" class="level2">
-<h2 class="anchored" data-anchor-id="scatterplot-graph">Scatterplot Graph</h2>
-<p>This is a scatter graph illustrating self-rated cooking skills against age, with gender separated by colour. Women did not assess themselves below a six. Men were more scattered, albeit barely - a majority at the lower end of the scale with a few anomalies at 6, 8, and 10. (Hover over each point to better see the statistics of each point)</p>
- <iframe height="600" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/scattergraph/"> </iframe>
+<section id="scatter-plot-graph---gender-age-cooking-skills" class="level2">
+<h2 class="anchored" data-anchor-id="scatter-plot-graph---gender-age-cooking-skills">Scatter-plot Graph - Gender + Age + Cooking Skills</h2>
+<p>The scattergraph presents a visual representation of the relationships between gender, age and self-assessed cooking skills within the dataset. Each point on the graph corresponds to a respondent’s characteristics, with gender shown in the colour, age on the y-axis and cooking skills on the x-axis.</p>
+<p>(Hover over each point to better see the statistics of each point)</p>
+ <iframe height="465" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/scattergraph/"> </iframe>
+<p>Firstly, women did not assess themselves below a 6 in terms of cooking skills, indicating a trend of higher self-assessment amongst female respondents.</p>
+<p>Men, on the other hand, were more scattered, with a majority clustered at the lower end of the scale. However, there were anomalies at ratings 6, 8 and 10 - suggesting some variability among male respondents.</p>
+<p>Additionally, there is clearly a trend where younger women were more likely to rate themselves higher compared to older women, indicating a potential age-related influence on self-assessed cooking skills among female respondents.</p>
 </section>
-<section id="density-plot" class="level2">
-<h2 class="anchored" data-anchor-id="density-plot">Density Plot</h2>
-<p>This is a density plot illustrating the density of genders against self-rated cooking skills. We can see that women self-assess their cooking skills higher, with a majority self-ranking at 10. Men on the other hand have a mode at the lower end of the spectrum - 2.5 or 3.</p>
- <iframe height="600" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/density/"> </iframe>
- <iframe height="600" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/groupbar/"> </iframe>
+<section id="density-plot---gender-cooking-skills" class="level2">
+<h2 class="anchored" data-anchor-id="density-plot---gender-cooking-skills">Density Plot - Gender + Cooking Skills</h2>
+<p>This is a density plot illustrating the density of genders against self-rated cooking skills. By examining the curves and peaks, we can analyse patterns in how cooking skills are perceived within each gender.</p>
+ <iframe height="450" width="150%" frameborder="no" src="https://choiyunyu.shinyapps.io/density/"> </iframe>
+<p>Our first notice is that among men, the density curve tends to skew towards the lower end of the self-assessment, with a prominent peak at 2.5 or 3, suggesting that a considerable proportion of men in the sample perceive their own cooking skills as relatively low.</p>
+<p>Women, however, display a different pattern, favouring the higher end of the spectrum. The plot clearly displays noticeable and taller peaks at rankings 8 and 10, suggesting a substantial sample of women rate their cooking skills higher.</p>
+</section>
+<section id="group-bar-chart---gender-marital-status-cooking-skills" class="level2">
+<h2 class="anchored" data-anchor-id="group-bar-chart---gender-marital-status-cooking-skills">Group Bar Chart - Gender + Marital Status + Cooking Skills</h2>
+<p>This grouped bar chart shows each marital status of “Married”, “Single” and “Other” and its comparison against self-assessed cooking skills and gender.</p>
+ <iframe height="465" width="100%" frameborder="no" src="https://choiyunyu.shinyapps.io/groupbar/"> </iframe>
+<p>Married respondents, regardless of gender, illustrated a notable trend toward higher self-assessed cooking skills. Among the male respondents, it was only the married men who rated themselves higher than an 8, suggesting that married individuals are influenced by the domestic responsibilities associated with familial roles.</p>
+<p>Contrastingly, single women tended to rank themselves higher than their married counterparts, suggesting self-confidence and self-reliance associated with single-hood - where individuals may invest more in developing their cooking skills as a means of self-sufficiency.</p>
+<p>Single men, however, did not rank themselves as high - none passing a score of 6, hinting at a possible lack of emphasis on cooking skills in their lifestyles.</p>
+<p>In the overall table, the higher rankings are dominated by single people - however, a look at the genders shows that this is majorly due to single women.</p>
+<p>It was also interesting that only men labeled their marital status as “other” (ranked on the lower spectrum of 2 and 5).</p>
+
 
 </section>
-</section>
-<section id="reading-the-graphs" class="level1">
-<h1>Reading the graphs</h1>
-
-
 </section>
 
 </main> <!-- /main -->
