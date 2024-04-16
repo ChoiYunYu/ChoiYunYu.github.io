@@ -3,11 +3,11 @@
     "path": "~/NM2207/Big PROJECT/ChoiYunYu.github.io/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "4112787052",
     "contents": "",
     "dirty": false,
     "created": 1713173665065.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 6,
     "properties": {
         "rmdVisualMode": "true",
@@ -22,11 +22,11 @@
         "ignored_words": "amongst\n"
     },
     "folds": "",
-    "lastKnownWriteTime": 1713261933,
+    "lastKnownWriteTime": 1713262118,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1713261933570,
+    "last_content_update": 1713262118613,
     "read_only": false,
     "read_only_alternatives": []
 }
