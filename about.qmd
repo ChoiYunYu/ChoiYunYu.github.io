@@ -12,7 +12,17 @@ knitr::include_graphics("data.png")
 ::: {style="flex: 1;"}
 This dataset contained information about a sample of men and women and their cooking skills (rated on their own assumption), descriptive data of their demographics, marital status, salary and education.
 
-The columns I specifically focused on were gender, age, marital status and their self-proclaimed cooking skills. The analysis of such relations is essential because it sheds light on societal norms, household dynamics, and individual perceptions. Understanding how these all intersect can provide insights into various aspects of daily life, such as gender norms within the division of labour and cultural expectations.
+The columns I specifically focused on:
+
+-    gender
+
+-   age
+
+-   marital status
+
+-   self-proclaimed cooking skills.
+
+The analysis of such relations is essential because it sheds light on societal norms, household dynamics, and individual perceptions. Understanding how these all intersect can provide insights into various aspects of daily life, such as gender norms within the division of labour and cultural expectations.
 :::
 :::
 
